@@ -1,0 +1,11 @@
+code = "MS.HSG-SRT.C.8"
+competency_code = "MS.HSG"
+descriptor = "SRT.C.8 Define trigonometric ratios and solve problems involving right triangles"
+statement = "Use trigonometric ratios and the Pythagorean Theorem to solve right triangles in applied problems."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 3
+12 = 0
+default = 1

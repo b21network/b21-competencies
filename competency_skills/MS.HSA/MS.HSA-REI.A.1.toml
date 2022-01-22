@@ -1,0 +1,11 @@
+code = "MS.HSA-REI.A.1"
+competency_code = "MS.HSA"
+descriptor = "REI.A.1 Understand solving equations as a process of reasoning and explain the reasoning"
+statement = "Explain each step in solving a simple equation as following from the equality of numbers asserted at the previous step, starting from the assumption that the original equation has a solution. Construct a viable argument to justify a solution method."
+
+[evidence_required]
+9 = 2
+10 = 0
+11 = 0
+12 = 0
+default = 1

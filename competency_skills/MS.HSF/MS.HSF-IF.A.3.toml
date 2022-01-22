@@ -1,0 +1,11 @@
+code = "MS.HSF-IF.A.3"
+competency_code = "MS.HSF"
+descriptor = "IF.A.3 Understand the concept of a function and use function notation"
+statement = "Recognize that sequences are functions, sometimes defined recursively, whose domain is a subset of the integers. For example, the Fibonacci sequence is defined recursively by f(0) = f(1) = 1, f(n+1) = f(n) + f(n-1) for n ? 1 (n is greater than or equal to 1)."
+
+[evidence_required]
+9 = 0
+10 = 1
+11 = 0
+12 = 0
+default = 1

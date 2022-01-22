@@ -1,0 +1,11 @@
+code = "MS.HSF-BF.A.1.C"
+competency_code = "MS.HSF"
+descriptor = "BF.A.1.C Build a function that models a relationship between two quantities"
+statement = "Compose functions. For example, if T(y) is the temperature in the atmosphere as a function of height, and h(t) is the height of a weather balloon as a function of time, then T(h(t)) is the temperature at the location of the weather balloon as a function of time."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 0
+12 = 0
+default = 1

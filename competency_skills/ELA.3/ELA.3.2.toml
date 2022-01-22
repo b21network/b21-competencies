@@ -1,0 +1,11 @@
+code = "ELA.3.2"
+competency_code = "ELA.3"
+descriptor = "Use evidence to develop claims and counterclaims"
+statement = "How well do I develop my claim and counterclaims?"
+
+[evidence_required]
+9 = 1
+10 = 1
+11 = 2
+12 = 2
+default = 1

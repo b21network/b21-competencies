@@ -1,0 +1,11 @@
+code = "WF.3.8"
+competency_code = "WF.3"
+descriptor = "Post-secondary Program Visit"
+statement = "I visit colleges or other post-secondary programs to inform my future plans."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 1
+12 = 0
+default = 1

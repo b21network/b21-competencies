@@ -1,0 +1,11 @@
+code = "MS.HSS-IC.A.2"
+competency_code = "MS.HSS"
+descriptor = "IC.A.2 Understand and evaluate random processes underlying statistical experiments"
+statement = "Decide if a specified model is consistent with results from a given data-generating process, e.g., using simulation. For example, a model says a spinning coin falls heads up with probability 0. 5. Would a result of 5 tails in a row cause you to question the model?"
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 0
+12 = 0
+default = 1

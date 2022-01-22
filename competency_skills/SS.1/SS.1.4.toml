@@ -1,0 +1,11 @@
+code = "SS.1.4"
+competency_code = "SS.1"
+descriptor = "Evaluate the importance of people's actions in shaping outcomes"
+statement = "How well can I evaluate the importance of people's actions in shaping historical events?"
+
+[evidence_required]
+9 = 2
+10 = 3
+11 = 4
+12 = 2
+default = 1

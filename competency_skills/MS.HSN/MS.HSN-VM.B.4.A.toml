@@ -1,0 +1,11 @@
+code = "MS.HSN-VM.B.4.A"
+competency_code = "MS.HSN"
+descriptor = "VM.B.4.A Perform operations on vectors."
+statement = "Add vectors end-to-end, component-wise, and by the parallelogram rule. Understand that the magnitude of a sum of two vectors is typically not the sum of the magnitudes."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 0
+12 = 0
+default = 1

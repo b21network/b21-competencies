@@ -1,0 +1,11 @@
+code = "HW.2.3"
+competency_code = "HW.2"
+descriptor = "Demonstrate health risk reduction practices and behaviors"
+statement = "How well can I apply health risk reduction practices and behaviors?"
+
+[evidence_required]
+9 = 0
+10 = 2
+11 = 0
+12 = 0
+default = 1

@@ -1,0 +1,11 @@
+code = "HOS.4.1"
+competency_code = "HOS.4"
+descriptor = "Learn and follow professional norms"
+statement = "How well do I learn and follow professional norms?"
+
+[evidence_required]
+9 = 1
+10 = 1
+11 = 3
+12 = 3
+default = 1

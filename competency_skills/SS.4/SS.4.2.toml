@@ -1,0 +1,11 @@
+code = "SS.4.2"
+competency_code = "SS.4"
+descriptor = "Evaluate the impacts of human activity on environmental systems"
+statement = "How well can I evaluate the impact of human activities on the environmental characteristics of specific places and regions?"
+
+[evidence_required]
+9 = 2
+10 = 2
+11 = 2
+12 = 1
+default = 1

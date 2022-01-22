@@ -1,0 +1,11 @@
+code = "MS.HSS-MD.B.5.A"
+competency_code = "MS.HSS"
+descriptor = "MD.B.5.A Use probability to evaluate outcomes of decisions"
+statement = "Find the expected payoff for a game of chance. For example, find the expected winnings from a state lottery ticket or a game at a fast-food restaurant."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 0
+12 = 0
+default = 1

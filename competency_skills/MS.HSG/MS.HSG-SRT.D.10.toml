@@ -1,0 +1,11 @@
+code = "MS.HSG-SRT.D.10"
+competency_code = "MS.HSG"
+descriptor = "SRT.D.10 Apply trigonometry to general triangles"
+statement = "Prove the Laws of Sines and Cosines and use them to solve problems."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 0
+12 = 0
+default = 1

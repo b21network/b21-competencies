@@ -1,0 +1,11 @@
+code = "PE.1.3"
+competency_code = "PE.1"
+descriptor = "Track and analyze progress toward fitness goals"
+statement = "I can track and analyze progress toward fitness goals and make adjustments as needed to maximize progress and goal attainment."
+
+[evidence_required]
+9 = 0
+10 = 4
+11 = 0
+12 = 0
+default = 1

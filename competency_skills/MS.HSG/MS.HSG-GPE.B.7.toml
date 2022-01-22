@@ -1,0 +1,11 @@
+code = "MS.HSG-GPE.B.7"
+competency_code = "MS.HSG"
+descriptor = "GPE.B.7 Use coordinates to prove simple geometric theorems algebraically"
+statement = "Use coordinates to compute perimeters of polygons and areas of triangles and rectangles, e.g., using the distance formula.*"
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 2
+12 = 0
+default = 1

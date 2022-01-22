@@ -1,0 +1,11 @@
+code = "ELA.6.1"
+competency_code = "ELA.6"
+descriptor = "Demonstrate preparedness and responsibility"
+statement = "How well do I participate in the discussion?"
+
+[evidence_required]
+9 = 2
+10 = 3
+11 = 4
+12 = 3
+default = 1

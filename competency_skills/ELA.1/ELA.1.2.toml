@@ -1,0 +1,11 @@
+code = "ELA.1.2"
+competency_code = "ELA.1"
+descriptor = "Evaluate the main ideas or themes"
+statement = "How well can I analyze the main idea or central theme?"
+
+[evidence_required]
+9 = 4
+10 = 4
+11 = 3
+12 = 2
+default = 1

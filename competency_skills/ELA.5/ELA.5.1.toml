@@ -1,0 +1,11 @@
+code = "ELA.5.1"
+competency_code = "ELA.5"
+descriptor = "Engage and orient the reader in the opening"
+statement = "How well do I engage and orient my reader in my opening?"
+
+[evidence_required]
+9 = 0
+10 = 1
+11 = 1
+12 = 1
+default = 1

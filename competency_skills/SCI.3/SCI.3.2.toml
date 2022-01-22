@@ -1,0 +1,11 @@
+code = "SCI.3.2"
+competency_code = "SCI.3"
+descriptor = "Use the model to communicate ideas"
+statement = "How well can I use a model to predict outcomes or test a hypothesis?"
+
+[evidence_required]
+9 = 1
+10 = 1
+11 = 2
+12 = 1
+default = 1

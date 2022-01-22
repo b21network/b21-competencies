@@ -1,0 +1,11 @@
+code = "MS.HSS-CP.A.5"
+competency_code = "MS.HSS"
+descriptor = "CP.A.5 Understand independence and conditional probability and use them to interpret data"
+statement = "Recognize and explain the concepts of conditional probability and independence in everyday language and everyday situations. For example, compare the chance of having lung cancer if you are a smoker with the chance of being a smoker if you have lung cancer."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 1
+12 = 0
+default = 1

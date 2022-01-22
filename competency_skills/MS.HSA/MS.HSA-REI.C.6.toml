@@ -1,0 +1,11 @@
+code = "MS.HSA-REI.C.6"
+competency_code = "MS.HSA"
+descriptor = "REI.C.6 Solve systems of equations"
+statement = "Solve systems of linear equations exactly and approximately (e.g., with graphs), focusing on pairs of linear equations in two variables."
+
+[evidence_required]
+9 = 1
+10 = 0
+11 = 0
+12 = 0
+default = 1

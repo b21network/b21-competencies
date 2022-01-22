@@ -1,0 +1,11 @@
+code = "HOS.1.2"
+competency_code = "HOS.1"
+descriptor = "Organized and prepared"
+statement = "How well do I keep myself organized and come prepared to learn?"
+
+[evidence_required]
+9 = 4
+10 = 4
+11 = 4
+12 = 4
+default = 1

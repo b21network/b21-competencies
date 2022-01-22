@@ -1,0 +1,11 @@
+code = "MS.HSG-C.B.5"
+competency_code = "MS.HSG"
+descriptor = "C.B.5 Find arc lengths and areas of sectors of circles"
+statement = "Derive using similarity the fact that the length of the arc intercepted by an angle is proportional to the radius, and define the radian measure of the angle as the constant of proportionality; derive the formula for the area of a sector."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 1
+12 = 0
+default = 1

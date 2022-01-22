@@ -1,0 +1,11 @@
+code = "MS.HSN-VM.B.5.A"
+competency_code = "MS.HSN"
+descriptor = "VM.B.5.A Perform operations on vectors."
+statement = "Represent scalar multiplication graphically by scaling vectors and possibly reversing their direction; perform scalar multiplication component-wise, e.g., as c(vx, vy) = (cvx, cvy)."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 0
+12 = 0
+default = 1

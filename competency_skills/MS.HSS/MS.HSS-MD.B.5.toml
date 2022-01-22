@@ -1,0 +1,11 @@
+code = "MS.HSS-MD.B.5"
+competency_code = "MS.HSS"
+descriptor = "MD.B.5 Use probability to evaluate outcomes of decisions"
+statement = "Weigh the possible outcomes of a decision by assigning probabilities to payoff values and finding expected values."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 0
+12 = 0
+default = 1

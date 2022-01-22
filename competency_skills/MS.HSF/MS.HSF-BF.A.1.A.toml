@@ -1,0 +1,11 @@
+code = "MS.HSF-BF.A.1.A"
+competency_code = "MS.HSF"
+descriptor = "BF.A.1.A Build a function that models a relationship between two quantities"
+statement = "Determine an explicit expression, a recursive process, or steps for calculation from a context."
+
+[evidence_required]
+9 = 4
+10 = 0
+11 = 0
+12 = 0
+default = 1

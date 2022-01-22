@@ -1,0 +1,11 @@
+code = "HW.1.3"
+competency_code = "HW.1"
+descriptor = "Analyze key factors that impact health"
+statement = "How well can I analyze key factors that impact health?"
+
+[evidence_required]
+9 = 0
+10 = 2
+11 = 0
+12 = 0
+default = 1

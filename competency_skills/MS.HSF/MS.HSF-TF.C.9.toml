@@ -1,0 +1,11 @@
+code = "MS.HSF-TF.C.9"
+competency_code = "MS.HSF"
+descriptor = "TF.C.9 Prove and apply trigonometric identities"
+statement = "Prove the addition and subtraction formulas for sine, cosine, and tangent and use them to solve problems."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 0
+12 = 0
+default = 1

@@ -1,0 +1,11 @@
+code = "NGE.2.2"
+competency_code = "NGE.2"
+descriptor = "Present findings and supporting evidence"
+statement = "How well do I organize, present, and support my ideas?"
+
+[evidence_required]
+9 = 1
+10 = 2
+11 = 2
+12 = 2
+default = 1

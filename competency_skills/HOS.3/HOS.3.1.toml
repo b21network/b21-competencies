@@ -1,0 +1,11 @@
+code = "HOS.3.1"
+competency_code = "HOS.3"
+descriptor = "Build Relationships"
+statement = "How well do I build and maintain relationships to expand my network?"
+
+[evidence_required]
+9 = 1
+10 = 1
+11 = 2
+12 = 2
+default = 1

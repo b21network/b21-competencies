@@ -1,0 +1,11 @@
+code = "ELA.4.2"
+competency_code = "ELA.4"
+descriptor = "Develop the main idea with key points"
+statement = "How well do I develop key points and evidence to support my main idea?"
+
+[evidence_required]
+9 = 1
+10 = 1
+11 = 2
+12 = 2
+default = 1

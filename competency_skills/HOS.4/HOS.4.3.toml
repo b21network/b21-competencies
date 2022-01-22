@@ -1,0 +1,11 @@
+code = "HOS.4.3"
+competency_code = "HOS.4"
+descriptor = "Flexibility and adaptability"
+statement = "How flexible and adaptable am I when changes need to be made?"
+
+[evidence_required]
+9 = 1
+10 = 1
+11 = 2
+12 = 2
+default = 1

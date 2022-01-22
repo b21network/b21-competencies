@@ -1,0 +1,11 @@
+code = "MS.HSS-ID.C.7"
+competency_code = "MS.HSS"
+descriptor = "ID.C.7 Interpret linear models"
+statement = "Interpret the slope (rate of change) and the intercept (constant term) of a linear model in the context of the data."
+
+[evidence_required]
+9 = 1
+10 = 0
+11 = 0
+12 = 0
+default = 1

@@ -1,0 +1,11 @@
+code = "ELA.7.4"
+competency_code = "ELA.7"
+descriptor = "Synthesize multiple sources"
+statement = "How well can I evaluate and synthesize my findings?"
+
+[evidence_required]
+9 = 1
+10 = 2
+11 = 3
+12 = 2
+default = 1

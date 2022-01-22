@@ -1,0 +1,11 @@
+code = "MS.HSN-VM.C.7"
+competency_code = "MS.HSN"
+descriptor = "VM.C.7 Perform operations on matrices & use matrices in applications."
+statement = "Multiply matrices by scalars to produce new matrices, e.g., as when all of the payoffs in a game are doubled."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 0
+12 = 0
+default = 1

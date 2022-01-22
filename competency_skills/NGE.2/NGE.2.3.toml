@@ -1,0 +1,11 @@
+code = "NGE.2.3"
+competency_code = "NGE.2"
+descriptor = "Customize the presentation for the specific purpose, context, and audience"
+statement = "How effectively do I customize my presentation for my specific purpose, context, and audience?"
+
+[evidence_required]
+9 = 1
+10 = 2
+11 = 2
+12 = 2
+default = 1

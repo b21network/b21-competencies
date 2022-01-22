@@ -1,0 +1,13 @@
+code = "MS.HSN-CN.B.4"
+competency_code = "MS.HSN"
+descriptor = """
+CN.B.4 Represent complex numbers and their operations on the complex
+ plane."""
+statement = "Represent complex numbers on the complex plane in rectangular and polar form (including real and imaginary numbers), and explain why the rectangular and polar forms of a given complex number represent the same number."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 0
+12 = 0
+default = 1

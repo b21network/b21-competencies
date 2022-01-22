@@ -1,0 +1,11 @@
+code = "HOS.1.4"
+competency_code = "HOS.1"
+descriptor = "Improve my work"
+statement = "How well do I revise and improve my work?"
+
+[evidence_required]
+9 = 4
+10 = 4
+11 = 4
+12 = 4
+default = 1

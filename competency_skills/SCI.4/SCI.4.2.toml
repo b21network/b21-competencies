@@ -1,0 +1,11 @@
+code = "SCI.4.2"
+competency_code = "SCI.4"
+descriptor = "Identify and use appropriate text structure"
+statement = "How well can I choose and apply the appropriate text structure for my purpose?"
+
+[evidence_required]
+9 = 1
+10 = 1
+11 = 2
+12 = 3
+default = 1

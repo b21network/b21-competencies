@@ -1,0 +1,11 @@
+code = "SS.4.1"
+competency_code = "SS.4"
+descriptor = "Analyze relationships between human and environmental systems"
+statement = "How well can I analyze relationships and interactions within and between human and physical systems to explain reciprocal influences that occur among them?"
+
+[evidence_required]
+9 = 2
+10 = 2
+11 = 2
+12 = 1
+default = 1

@@ -1,0 +1,11 @@
+code = "WF.4.3"
+competency_code = "WF.4"
+descriptor = "Celebration of Learning"
+statement = "I willingly participate in Celebration of Learning events by exhibiting my learning as well as artifacts I create."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 0
+12 = 1
+default = 1

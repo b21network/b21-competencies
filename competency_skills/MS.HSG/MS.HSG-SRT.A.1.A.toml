@@ -1,0 +1,11 @@
+code = "MS.HSG-SRT.A.1.A"
+competency_code = "MS.HSG"
+descriptor = "SRT.A.1.A Understand similarity in terms of similarity transformations"
+statement = "A dilation takes a line not passing through the center of the dilation to a parallel line, and leaves a line passing through the center unchanged."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 1
+12 = 0
+default = 1

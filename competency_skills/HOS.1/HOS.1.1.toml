@@ -1,0 +1,11 @@
+code = "HOS.1.1"
+competency_code = "HOS.1"
+descriptor = "Manage tasks and deadlines"
+statement = "How well do I manage my tasks and deadlines?"
+
+[evidence_required]
+9 = 4
+10 = 4
+11 = 4
+12 = 4
+default = 1

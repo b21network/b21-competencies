@@ -1,0 +1,11 @@
+code = "MS.HSN-Q.A.3"
+competency_code = "MS.HSN"
+descriptor = "Q.A.3 Reason quantitatively and use units to solve problems."
+statement = "Choose a level of accuracy appropriate to limitations on measurement when reporting quantities."
+
+[evidence_required]
+9 = 0
+10 = 1
+11 = 1
+12 = 0
+default = 1

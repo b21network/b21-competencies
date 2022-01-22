@@ -1,0 +1,11 @@
+code = "MS.HSS-IC.B.3"
+competency_code = "MS.HSS"
+descriptor = "IC.B.3 Make inferences and justify conclusions from sample surveys, experiments, and observational studies"
+statement = "Recognize the purposes of and differences among sample surveys, experiments, and observational studies; explain how randomization relates to each."
+
+[evidence_required]
+9 = 0
+10 = 1
+11 = 0
+12 = 0
+default = 1

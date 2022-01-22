@@ -1,0 +1,11 @@
+code = "MS.HSN-VM.B.5"
+competency_code = "MS.HSN"
+descriptor = "VM.B.5 Perform operations on vectors."
+statement = "Multiply a vector by a scalar."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 0
+12 = 0
+default = 1

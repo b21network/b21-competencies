@@ -1,0 +1,11 @@
+code = "MS.HSF-LE.B.5"
+competency_code = "MS.HSF"
+descriptor = "LE.B.5 Interpret expressions for functions in terms of the situation they model"
+statement = "Interpret the parameters in a linear, quadratic, or exponential function in terms of a context.*"
+
+[evidence_required]
+9 = 2
+10 = 2
+11 = 0
+12 = 0
+default = 1

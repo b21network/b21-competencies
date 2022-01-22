@@ -1,0 +1,11 @@
+code = "MS.HSG-C.A.1"
+competency_code = "MS.HSG"
+descriptor = "C.A.1 Understand and apply theorems about circles"
+statement = "Prove that all circles are similar."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 0
+12 = 0
+default = 1

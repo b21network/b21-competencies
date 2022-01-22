@@ -1,0 +1,11 @@
+code = "MS.HSS-IC.B.5"
+competency_code = "MS.HSS"
+descriptor = "IC.B.5 Make inferences and justify conclusions from sample surveys, experiments, and observational studies"
+statement = "Use data from a randomized experiment to compare two treatments; use simulations to decide if differences between parameters are significant."
+
+[evidence_required]
+9 = 0
+10 = 2
+11 = 0
+12 = 0
+default = 1

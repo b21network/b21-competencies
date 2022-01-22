@@ -1,0 +1,11 @@
+code = "NGE.3.1"
+competency_code = "NGE.3"
+descriptor = "Interact and participate effectively with others"
+statement = "How well do I interact and participate with others on my team?"
+
+[evidence_required]
+9 = 1
+10 = 2
+11 = 3
+12 = 2
+default = 1

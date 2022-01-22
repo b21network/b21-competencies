@@ -1,0 +1,11 @@
+code = "MS.HSF-IF.C.7.D"
+competency_code = "MS.HSF"
+descriptor = "IF.C.7.D Analyze functions using different representations"
+statement = "Graph rational functions, identifying zeros and asymptotes when suitable factorizations are available, and showing end behavior."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 0
+12 = 0
+default = 1

@@ -1,0 +1,11 @@
+code = "MS.HSF-LE.A.1"
+competency_code = "MS.HSF"
+descriptor = "LE.A.1 Construct and compare linear and exponential models and solve problems"
+statement = "Distinguish between situations that can be modeled with linear functions and with exponential functions."
+
+[evidence_required]
+9 = 2
+10 = 1
+11 = 0
+12 = 0
+default = 1

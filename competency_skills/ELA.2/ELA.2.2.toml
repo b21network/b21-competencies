@@ -1,0 +1,11 @@
+code = "ELA.2.2"
+competency_code = "ELA.2"
+descriptor = "Develop and organize the message"
+statement = "How well do I develop and organize my message?"
+
+[evidence_required]
+9 = 4
+10 = 4
+11 = 3
+12 = 2
+default = 1

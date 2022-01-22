@@ -1,0 +1,11 @@
+code = "MS.HSG-C.A.2"
+competency_code = "MS.HSG"
+descriptor = "C.A.2 Understand and apply theorems about circles"
+statement = "Identify and describe relationships among inscribed angles, radii, and chords. Include the relationship between central, inscribed, and circumscribed angles; inscribed angles on a diameter are right angles; the radius of a circle is perpendicular to the tangent where the radius intersects the circle."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 3
+12 = 0
+default = 1

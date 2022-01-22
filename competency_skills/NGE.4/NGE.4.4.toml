@@ -1,0 +1,11 @@
+code = "NGE.4.4"
+competency_code = "NGE.4"
+descriptor = "Quality"
+statement = "How well do I create high quality, professional communications that are error free?"
+
+[evidence_required]
+9 = 1
+10 = 1
+11 = 3
+12 = 4
+default = 1

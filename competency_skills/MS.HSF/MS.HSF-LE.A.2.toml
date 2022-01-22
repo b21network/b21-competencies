@@ -1,0 +1,11 @@
+code = "MS.HSF-LE.A.2"
+competency_code = "MS.HSF"
+descriptor = "LE.A.2 Construct and compare linear and exponential models and solve problems"
+statement = "Construct linear and exponential functions, including arithmetic and geometric sequences, given a graph, a description of a relationship, or two input-output pairs (include reading these from a table).*"
+
+[evidence_required]
+9 = 2
+10 = 3
+11 = 0
+12 = 0
+default = 1

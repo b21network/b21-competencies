@@ -1,0 +1,11 @@
+code = "MS.HSA-CED.A.3"
+competency_code = "MS.HSA"
+descriptor = "CED.A.3 Create equations that describe numbers or relationships"
+statement = "Represent constraints by equations or inequalities, and by systems of equations and/or inequalities, and interpret solutions as viable or non-viable options in a modeling context. For example, represent inequalities describing nutritional and cost constraints on combinations of different foods.*"
+
+[evidence_required]
+9 = 1
+10 = 0
+11 = 0
+12 = 0
+default = 1

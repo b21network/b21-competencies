@@ -1,0 +1,11 @@
+code = "PE.2.3"
+competency_code = "PE.2"
+descriptor = "Evaluate impacts on safety during physical activities"
+statement = "I can predict how etiquette/safety rules improve games/activities, contribute to productive participation, and how environmental modifications can impact safety."
+
+[evidence_required]
+9 = 0
+10 = 4
+11 = 0
+12 = 0
+default = 1

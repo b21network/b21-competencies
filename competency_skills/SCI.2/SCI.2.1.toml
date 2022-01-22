@@ -1,0 +1,11 @@
+code = "SCI.2.1"
+competency_code = "SCI.2"
+descriptor = "Make meaning of data collected"
+statement = "How well do I identify relationships and patterns?"
+
+[evidence_required]
+9 = 2
+10 = 2
+11 = 3
+12 = 3
+default = 1

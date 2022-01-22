@@ -1,0 +1,11 @@
+code = "MS.HSG-CO.B.6"
+competency_code = "MS.HSG"
+descriptor = "CO.B.6 Understand congruence in terms of rigid motions"
+statement = "Use geometric descriptions of rigid motions to transform figures and to predict the effect of a given rigid motion on a given figure; given two figures, use the definition of congruence in terms of rigid motions to decide if they are congruent."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 1
+12 = 0
+default = 1

@@ -1,0 +1,11 @@
+code = "MS.HSS-IC.B.6"
+competency_code = "MS.HSS"
+descriptor = "IC.B.6 Make inferences and justify conclusions from sample surveys, experiments, and observational studies"
+statement = "Evaluate reports based on data."
+
+[evidence_required]
+9 = 0
+10 = 1
+11 = 0
+12 = 0
+default = 1

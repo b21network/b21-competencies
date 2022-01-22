@@ -1,0 +1,11 @@
+code = "MS.HSG-SRT.A.3"
+competency_code = "MS.HSG"
+descriptor = "SRT.A.3 Understand similarity in terms of similarity transformations"
+statement = "Use the properties of similarity transformations to establish the AA criterion for two triangles to be similar."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 0
+12 = 0
+default = 1

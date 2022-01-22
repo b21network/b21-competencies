@@ -1,0 +1,11 @@
+code = "MS.HSF-BF.B.5"
+competency_code = "MS.HSF"
+descriptor = "BF.B.5 Build new functions from existing functions"
+statement = "Understand the inverse relationship between exponents and logarithms and use this relationship to solve problems involving logarithms and exponents."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 0
+12 = 0
+default = 1

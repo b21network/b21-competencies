@@ -1,0 +1,11 @@
+code = "SS.1.1"
+competency_code = "SS.1"
+descriptor = "Evaluate historical outcomes in context"
+statement = "How well can I evaluate historical outcomes in context?"
+
+[evidence_required]
+9 = 2
+10 = 3
+11 = 4
+12 = 2
+default = 1

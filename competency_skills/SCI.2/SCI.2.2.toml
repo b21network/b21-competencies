@@ -1,0 +1,11 @@
+code = "SCI.2.2"
+competency_code = "SCI.2"
+descriptor = "Represent data"
+statement = "How well can I represent the data visually?"
+
+[evidence_required]
+9 = 2
+10 = 2
+11 = 3
+12 = 3
+default = 1

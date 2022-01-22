@@ -1,0 +1,15 @@
+[gitsheet]
+path = "${{ competency_area_code }}/${{ code }}"
+root = "competencies"
+
+[gitsheet.fields.competency_area_code]
+type = "string"
+
+[gitsheet.fields.code]
+type = "string"
+
+[gitsheet.fields.descriptor]
+type = "string"
+
+[gitsheet.fields.statement]
+type = "string"

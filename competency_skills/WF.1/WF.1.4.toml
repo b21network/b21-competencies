@@ -1,0 +1,11 @@
+code = "WF.1.4"
+competency_code = "WF.1"
+descriptor = "Presentation of Learning"
+statement = "I can reflect on and present my learning to a panel of adults and peers."
+
+[evidence_required]
+9 = 1
+10 = 0
+11 = 0
+12 = 0
+default = 1

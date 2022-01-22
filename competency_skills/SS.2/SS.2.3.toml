@@ -1,0 +1,11 @@
+code = "SS.2.3"
+competency_code = "SS.2"
+descriptor = "Build Civic Knowledge"
+statement = "How well can I assess options for individual and collective action to address local, regional, and global problems?"
+
+[evidence_required]
+9 = 1
+10 = 1
+11 = 2
+12 = 2
+default = 1

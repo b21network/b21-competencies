@@ -1,0 +1,11 @@
+code = "VA.1.3"
+competency_code = "VA.1"
+descriptor = "Demonstrate understanding of the responsibilities that come with the freedom to create"
+statement = "How responsible am I when creating my project?"
+
+[evidence_required]
+9 = 2
+10 = 2
+11 = 3
+12 = 3
+default = 1

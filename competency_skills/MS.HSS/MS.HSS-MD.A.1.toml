@@ -1,0 +1,11 @@
+code = "MS.HSS-MD.A.1"
+competency_code = "MS.HSS"
+descriptor = "MD.A.1 Calculate expected values and use them to solve problems"
+statement = "Define a random variable for a quantity of interest by assigning a numerical value to each event in a sample space; graph the corresponding probability distribution using the same graphical displays as for data distributions."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 0
+12 = 0
+default = 1

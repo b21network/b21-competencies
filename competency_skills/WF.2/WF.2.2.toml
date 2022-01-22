@@ -1,0 +1,11 @@
+code = "WF.2.2"
+competency_code = "WF.2"
+descriptor = "Elective Studios"
+statement = "I can meet the expectations within elective studios as I explore different career fields."
+
+[evidence_required]
+9 = 0
+10 = 2
+11 = 0
+12 = 0
+default = 1

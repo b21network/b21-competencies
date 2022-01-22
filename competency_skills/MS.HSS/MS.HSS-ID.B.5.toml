@@ -1,0 +1,11 @@
+code = "MS.HSS-ID.B.5"
+competency_code = "MS.HSS"
+descriptor = "ID.B.5 Summarize, represent, and interpret data on two categorical and quantitative variables"
+statement = "Summarize categorical data for two categories in two-way frequency tables. Interpret relative frequencies in the context of the data (including joint, marginal, and conditional relative frequencies). Recognize possible associations and trends in the data."
+
+[evidence_required]
+9 = 1
+10 = 0
+11 = 0
+12 = 0
+default = 1

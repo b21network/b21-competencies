@@ -1,0 +1,11 @@
+code = "ELA.6.3"
+competency_code = "ELA.6"
+descriptor = "Reflect on new learning"
+statement = "How well can I reflect on the content of the discussion?"
+
+[evidence_required]
+9 = 2
+10 = 3
+11 = 4
+12 = 3
+default = 1

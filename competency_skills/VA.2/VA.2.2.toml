@@ -1,0 +1,11 @@
+code = "VA.2.2"
+competency_code = "VA.2"
+descriptor = "Use artistic techniques to present artwork effectively"
+statement = "How effectively do I present artistic work?"
+
+[evidence_required]
+9 = 1
+10 = 1
+11 = 2
+12 = 2
+default = 1

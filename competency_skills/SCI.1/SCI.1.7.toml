@@ -1,0 +1,11 @@
+code = "SCI.1.7"
+competency_code = "SCI.1"
+descriptor = "Iterate using results"
+statement = "How well can I reflect on my findings and think about next steps?"
+
+[evidence_required]
+9 = 2
+10 = 2
+11 = 3
+12 = 3
+default = 1

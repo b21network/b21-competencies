@@ -1,0 +1,11 @@
+code = "MS.HSN-VM.B.4.C"
+competency_code = "MS.HSN"
+descriptor = "VM.B.4.C Perform operations on vectors."
+statement = "Understand vector subtraction v - w as v + (-w), where (-w) is the additive inverse of w, with the same magnitude as w and pointing in the opposite direction. Represent vector subtraction graphically by connecting the tips in the appropriate order, and perform vector subtraction component-wise."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 0
+12 = 0
+default = 1

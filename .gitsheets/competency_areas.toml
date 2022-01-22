@@ -1,0 +1,9 @@
+[gitsheet]
+path = "${{ code }}"
+root = "competency_areas"
+
+[gitsheet.fields.code]
+type = "string"
+
+[gitsheet.fields.title]
+type = "string"

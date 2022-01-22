@@ -1,0 +1,11 @@
+code = "NGE.3.2"
+competency_code = "NGE.3"
+descriptor = "Complete my part of the work"
+statement = "How well do I complete my part of the work?"
+
+[evidence_required]
+9 = 1
+10 = 2
+11 = 3
+12 = 2
+default = 1

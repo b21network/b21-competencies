@@ -1,0 +1,11 @@
+code = "ELA.1.1"
+competency_code = "ELA.1"
+descriptor = "Choose and apply reading strategies"
+statement = "How well can I apply reading strategies to make meaning of texts?"
+
+[evidence_required]
+9 = 4
+10 = 4
+11 = 3
+12 = 2
+default = 1

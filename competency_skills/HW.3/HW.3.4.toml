@@ -1,0 +1,11 @@
+code = "HW.3.4"
+competency_code = "HW.3"
+descriptor = "Develop and analyze a personal health plan"
+statement = "How well can I develop and analyze a personal health plan?"
+
+[evidence_required]
+9 = 0
+10 = 2
+11 = 0
+12 = 0
+default = 1

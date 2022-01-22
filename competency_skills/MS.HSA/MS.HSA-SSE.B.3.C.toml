@@ -1,0 +1,11 @@
+code = "MS.HSA-SSE.B.3.C"
+competency_code = "MS.HSA"
+descriptor = "SSE.B.3.C Write expressions in equivalent forms to solve problems"
+statement = "Use the properties of exponents to transform expressions for exponential functions. For example the expression 1.15^t can be rewritten as [1.15^(1/12)]^(12t) ? 1.012^(12t) to reveal the approximate equivalent monthly interest rate if the annual rate is 15%."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 0
+12 = 0
+default = 1

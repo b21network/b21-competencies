@@ -1,0 +1,11 @@
+code = "NGE.2.4"
+competency_code = "NGE.2"
+descriptor = "Use presentation aids"
+statement = "How effectively do I use different media to communicate my ideas?"
+
+[evidence_required]
+9 = 1
+10 = 2
+11 = 2
+12 = 2
+default = 1

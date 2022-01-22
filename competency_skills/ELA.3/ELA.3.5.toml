@@ -1,0 +1,11 @@
+code = "ELA.3.5"
+competency_code = "ELA.3"
+descriptor = "Provide a compelling conclusion"
+statement = "How effectively do I conclude my argument?"
+
+[evidence_required]
+9 = 1
+10 = 1
+11 = 2
+12 = 2
+default = 1

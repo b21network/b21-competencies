@@ -1,0 +1,11 @@
+code = "SS.2.1"
+competency_code = "SS.2"
+descriptor = "Participate in Community"
+statement = "How well can I apply a range of deliberative and democratic procedures to make decisions and take action in my classroom, school, and out-of-school civic contexts?"
+
+[evidence_required]
+9 = 1
+10 = 1
+11 = 2
+12 = 2
+default = 1

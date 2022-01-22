@@ -1,0 +1,11 @@
+code = "WL.3.2"
+competency_code = "WL.3"
+descriptor = "Compare the Culture Studied and Your Own"
+statement = "How do I compare the culture studied to my own?"
+
+[evidence_required]
+9 = 2
+10 = 2
+11 = 0
+12 = 0
+default = 1

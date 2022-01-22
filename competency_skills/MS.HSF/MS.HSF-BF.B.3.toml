@@ -1,0 +1,11 @@
+code = "MS.HSF-BF.B.3"
+competency_code = "MS.HSF"
+descriptor = "BF.B.3 Build new functions from existing functions"
+statement = "Identify the effect on the graph of replacing f(x) by f(x) + k, k f(x), f(kx), and f(x + k) for specific values of k (both positive and negative); find the value of k given the graphs. Experiment with cases and illustrate an explanation of the effects on the graph using technology. Include recognizing even and odd functions from their graphs and algebraic expressions for them."
+
+[evidence_required]
+9 = 2
+10 = 3
+11 = 0
+12 = 0
+default = 1

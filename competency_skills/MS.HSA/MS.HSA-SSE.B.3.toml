@@ -1,0 +1,11 @@
+code = "MS.HSA-SSE.B.3"
+competency_code = "MS.HSA"
+descriptor = "SSE.B.3 Write expressions in equivalent forms to solve problems"
+statement = "Choose and produce an equivalent form of an expression to reveal and explain properties of the quantity represented by the expression."
+
+[evidence_required]
+9 = 1
+10 = 0
+11 = 0
+12 = 0
+default = 1

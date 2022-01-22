@@ -1,0 +1,11 @@
+code = "MS.HSS-CP.B.7"
+competency_code = "MS.HSS"
+descriptor = "CP.B.7 Use the rules of probability to compute probabilities of compound events in a uniform probability model"
+statement = "Apply the Addition Rule, P(A or B) = P(A) + P(B) - P(A and B), and interpret the answer in terms of the model."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 2
+12 = 0
+default = 1

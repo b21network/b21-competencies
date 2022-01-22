@@ -1,0 +1,11 @@
+code = "WF.4.4"
+competency_code = "WF.4"
+descriptor = "Exit Portfolio"
+statement = "I can document my best work, academic growth, and personal growth in a digital portfolio."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 0
+12 = 1
+default = 1

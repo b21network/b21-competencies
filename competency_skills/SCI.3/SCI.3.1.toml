@@ -1,0 +1,11 @@
+code = "SCI.3.1"
+competency_code = "SCI.3"
+descriptor = "Create a model to represent a system"
+statement = "How well can I create a model to represent an event or system?"
+
+[evidence_required]
+9 = 1
+10 = 1
+11 = 2
+12 = 1
+default = 1

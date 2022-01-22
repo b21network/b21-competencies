@@ -1,0 +1,11 @@
+code = "MS.HSA-REI.B.4.B"
+competency_code = "MS.HSA"
+descriptor = "REI.B.4.B Solve equations and inequalities in one variable"
+statement = "Solve quadratic equations by inspection (e.g., for x^2 = 49), taking square roots, completing the square, the quadratic formula and factoring, as appropriate to the initial form of the equation. Recognize when the quadratic formula gives complex solutions and write them as a ± bi for real numbers a and b."
+
+[evidence_required]
+9 = 2
+10 = 1
+11 = 0
+12 = 0
+default = 1

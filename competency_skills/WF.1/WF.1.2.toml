@@ -1,0 +1,11 @@
+code = "WF.1.2"
+competency_code = "WF.1"
+descriptor = "Technology Essentials"
+statement = "I can utilize technology and systems to create artifacts that demonstrate my learning, understand my growth and progress, and track the beginning of my pathway."
+
+[evidence_required]
+9 = 1
+10 = 0
+11 = 0
+12 = 0
+default = 1

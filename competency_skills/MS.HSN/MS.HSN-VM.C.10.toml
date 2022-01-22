@@ -1,0 +1,11 @@
+code = "MS.HSN-VM.C.10"
+competency_code = "MS.HSN"
+descriptor = "VM.C.10 Perform operations on matrices & use matrices in applications."
+statement = "Understand that the zero and identity matrices play a role in matrix addition and multiplication similar to the role of 0 and 1 in the real numbers. The determinant of a square matrix is nonzero if and only if the matrix has a multiplicative inverse."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 0
+12 = 0
+default = 1

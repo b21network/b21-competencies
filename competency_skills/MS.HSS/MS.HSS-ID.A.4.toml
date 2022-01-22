@@ -1,0 +1,11 @@
+code = "MS.HSS-ID.A.4"
+competency_code = "MS.HSS"
+descriptor = "ID.A.4 Summarize, represent, and interpret data on a single count or measurement variable"
+statement = "Use the mean and standard deviation of a data set to fit it to a normal distribution and to estimate population percentages. Recognize that there are data sets for which such a procedure is not appropriate. Use calculators, spreadsheets, and tables to estimate areas under the normal curve."
+
+[evidence_required]
+9 = 0
+10 = 2
+11 = 0
+12 = 0
+default = 1

@@ -1,0 +1,11 @@
+code = "MS.HSF-IF.C.7.B"
+competency_code = "MS.HSF"
+descriptor = "IF.C.7.B Analyze functions using different representations"
+statement = "Graph square root, cube root, and piecewise-defined functions, including step functions and absolute value functions."
+
+[evidence_required]
+9 = 1
+10 = 0
+11 = 0
+12 = 0
+default = 1

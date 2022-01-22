@@ -1,0 +1,13 @@
+code = "MS.HSN-CN.B.6"
+competency_code = "MS.HSN"
+descriptor = """
+CN.B.6 Represent complex numbers and their operations on the complex
+ plane."""
+statement = "Calculate the distance between numbers in the complex plane as the modulus of the difference, and the midpoint of a segment as the average of the numbers at its endpoints."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 0
+12 = 0
+default = 1

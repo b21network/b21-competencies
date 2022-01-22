@@ -1,0 +1,11 @@
+code = "MS.HSF-IF.B.6"
+competency_code = "MS.HSF"
+descriptor = "IF.B.6 Interpret functions that arise in applications in terms of the context"
+statement = "Calculate and interpret the average rate of change of a function (presented symbolically or as a table) over a specified interval. Estimate the rate of change from a graph.*"
+
+[evidence_required]
+9 = 1
+10 = 0
+11 = 0
+12 = 0
+default = 1

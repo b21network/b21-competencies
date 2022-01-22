@@ -1,0 +1,11 @@
+code = "MS.HSS-ID.A.3"
+competency_code = "MS.HSS"
+descriptor = "ID.A.3 Summarize, represent, and interpret data on a single count or measurement variable"
+statement = "Interpret differences in shape, center, and spread in the context of the data sets, accounting for possible effects of extreme data points (outliers)."
+
+[evidence_required]
+9 = 2
+10 = 0
+11 = 0
+12 = 0
+default = 1

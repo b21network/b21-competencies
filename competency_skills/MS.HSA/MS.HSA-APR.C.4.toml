@@ -1,0 +1,11 @@
+code = "MS.HSA-APR.C.4"
+competency_code = "MS.HSA"
+descriptor = "APR.C.4 Use polynomial identities to solve problems"
+statement = "Prove polynomial identities and use them to describe numerical relationships. For example, the polynomial identity (x^2 + y^2)^2 = (x^2 - y^2)^2 + (2xy)^2 can be used to generate Pythagorean triples."
+
+[evidence_required]
+9 = 0
+10 = 1
+11 = 0
+12 = 0
+default = 1

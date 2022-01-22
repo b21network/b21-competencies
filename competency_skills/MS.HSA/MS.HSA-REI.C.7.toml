@@ -1,0 +1,11 @@
+code = "MS.HSA-REI.C.7"
+competency_code = "MS.HSA"
+descriptor = "REI.C.7 Solve systems of equations"
+statement = "Solve a simple system consisting of a linear equation and a quadratic equation in two variables algebraically and graphically. For example, find the points of intersection between the line y = -3x and the circle x^2 + y^2 = 3."
+
+[evidence_required]
+9 = 0
+10 = 1
+11 = 0
+12 = 0
+default = 1

@@ -1,0 +1,11 @@
+code = "NGE.2.6"
+competency_code = "NGE.2"
+descriptor = "Give an effective conclusion"
+statement = "How well do I conclude my presentation?"
+
+[evidence_required]
+9 = 1
+10 = 2
+11 = 2
+12 = 2
+default = 1

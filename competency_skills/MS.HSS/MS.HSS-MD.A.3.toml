@@ -1,0 +1,11 @@
+code = "MS.HSS-MD.A.3"
+competency_code = "MS.HSS"
+descriptor = "MD.A.3 Calculate expected values and use them to solve problems"
+statement = "Develop a probability distribution for a random variable defined for a sample space in which theoretical probabilities can be calculated; find the expected value. For example, find the theoretical probability distribution for the number of correct answers obtained by guessing on all five questions of a multiple-choice test where each question has four choices, and find the expected grade under various grading schemes."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 0
+12 = 0
+default = 1

@@ -1,0 +1,11 @@
+code = "WF.2.3"
+competency_code = "WF.2"
+descriptor = "Portfolio"
+statement = "I can document my best work, academic growth, and personal growth in a digital portfolio."
+
+[evidence_required]
+9 = 0
+10 = 1
+11 = 0
+12 = 0
+default = 1

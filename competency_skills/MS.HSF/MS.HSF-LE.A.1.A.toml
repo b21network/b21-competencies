@@ -1,0 +1,11 @@
+code = "MS.HSF-LE.A.1.A"
+competency_code = "MS.HSF"
+descriptor = "LE.A.1.A Construct and compare linear and exponential models and solve problems"
+statement = "Prove that linear functions grow by equal differences over equal intervals and that exponential functions grow by equal factors over equal intervals."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 0
+12 = 0
+default = 1

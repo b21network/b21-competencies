@@ -1,0 +1,11 @@
+code = "MS.HSS-CP.B.8"
+competency_code = "MS.HSS"
+descriptor = "CP.B.8 Use the rules of probability to compute probabilities of compound events in a uniform probability model"
+statement = "Apply the general Multiplication Rule in a uniform probability model, P(A and B) = [P(A)]*[P(B|A)] =[P(B)]*[P(A|B)], and interpret the answer in terms of the model."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 0
+12 = 0
+default = 1

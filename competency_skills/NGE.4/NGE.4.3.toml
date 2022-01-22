@@ -1,0 +1,11 @@
+code = "NGE.4.3"
+competency_code = "NGE.4"
+descriptor = "Context, Format and Audience"
+statement = "How well do I follow format guidelines and consider my audience in my written communications?"
+
+[evidence_required]
+9 = 1
+10 = 1
+11 = 3
+12 = 4
+default = 1

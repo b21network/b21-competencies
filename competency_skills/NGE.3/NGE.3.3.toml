@@ -1,0 +1,11 @@
+code = "NGE.3.3"
+competency_code = "NGE.3"
+descriptor = "Manage and resolve conflicts"
+statement = "How well do I manage and work to resolve conflicts when working with others?"
+
+[evidence_required]
+9 = 1
+10 = 2
+11 = 3
+12 = 2
+default = 1

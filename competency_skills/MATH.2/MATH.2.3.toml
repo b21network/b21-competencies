@@ -1,0 +1,11 @@
+code = "MATH.2.3"
+competency_code = "MATH.2"
+descriptor = "Reflect on my process and solution"
+statement = "How well can I reflect on what I learned through the problem solving process?"
+
+[evidence_required]
+9 = 4
+10 = 4
+11 = 4
+12 = 4
+default = 1

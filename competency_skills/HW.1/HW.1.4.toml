@@ -1,0 +1,11 @@
+code = "HW.1.4"
+competency_code = "HW.1"
+descriptor = "Analyze developmental stages of life"
+statement = "How well can I analyze developmental stages of life?"
+
+[evidence_required]
+9 = 0
+10 = 2
+11 = 0
+12 = 0
+default = 1

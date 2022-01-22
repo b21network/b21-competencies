@@ -1,0 +1,11 @@
+code = "MS.HSA-SSE.B.4"
+competency_code = "MS.HSA"
+descriptor = "SSE.B.4 Write expressions in equivalent forms to solve problems"
+statement = "Derive the formula for the sum of a finite geometric series (when the common ratio is not 1), and use the formula to solve problems. For example, calculate mortgage payments."
+
+[evidence_required]
+9 = 0
+10 = 1
+11 = 0
+12 = 0
+default = 1

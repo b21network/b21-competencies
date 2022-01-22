@@ -1,0 +1,11 @@
+code = "NGE.1.1"
+competency_code = "NGE.1"
+descriptor = "Create a project plan"
+statement = "How well can I create a project plan?"
+
+[evidence_required]
+9 = 1
+10 = 3
+11 = 4
+12 = 4
+default = 1

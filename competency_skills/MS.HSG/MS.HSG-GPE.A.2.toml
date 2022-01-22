@@ -1,0 +1,11 @@
+code = "MS.HSG-GPE.A.2"
+competency_code = "MS.HSG"
+descriptor = "GPE.A.2 Translate between the geometric description and the equation for a conic section"
+statement = "Derive the equation of a parabola given a focus and directrix."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 1
+12 = 0
+default = 1

@@ -1,0 +1,11 @@
+code = "ELA.2.1"
+competency_code = "ELA.2"
+descriptor = "Identify a core message and audience"
+statement = "How well do I identify my core message and audience?"
+
+[evidence_required]
+9 = 4
+10 = 4
+11 = 3
+12 = 2
+default = 1

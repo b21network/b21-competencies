@@ -1,0 +1,11 @@
+code = "MS.HSN-VM.C.9"
+competency_code = "MS.HSN"
+descriptor = "VM.C.9 Perform operations on matrices & use matrices in applications."
+statement = "Understand that, unlike multiplication of numbers, matrix multiplication for square matrices is not a commutative operation, but still satisfies the associative and distributive properties."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 0
+12 = 0
+default = 1

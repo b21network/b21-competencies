@@ -1,0 +1,11 @@
+code = "MS.HSG-SRT.D.9"
+competency_code = "MS.HSG"
+descriptor = "SRT.D.9 Apply trigonometry to general triangles"
+statement = "Derive the formula A = (1/2)ab sin(C) for the area of a triangle by drawing an auxiliary line from a vertex perpendicular to the opposite side."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 0
+12 = 0
+default = 1

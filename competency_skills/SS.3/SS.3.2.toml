@@ -1,0 +1,11 @@
+code = "SS.3.2"
+competency_code = "SS.3"
+descriptor = "Apply geographic tools"
+statement = "How well can I analyze maps, satellite images, photographs, and other representations to explain relationships between the locations of places and regions and their political, cultural, and economic dynamics?"
+
+[evidence_required]
+9 = 2
+10 = 2
+11 = 2
+12 = 1
+default = 1

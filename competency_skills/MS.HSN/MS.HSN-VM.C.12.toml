@@ -1,0 +1,11 @@
+code = "MS.HSN-VM.C.12"
+competency_code = "MS.HSN"
+descriptor = "VM.C.12 Perform operations on matrices & use matrices in applications."
+statement = "Work with 2 X 2 matrices as transformations of the plane, and interpret the absolute value of the determinant in terms of area."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 0
+12 = 0
+default = 1

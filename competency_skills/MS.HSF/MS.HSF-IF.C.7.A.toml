@@ -1,0 +1,11 @@
+code = "MS.HSF-IF.C.7.A"
+competency_code = "MS.HSF"
+descriptor = "IF.C.7.A Analyze functions using different representations"
+statement = "Graph linear and quadratic functions and show intercepts, maxima, and minima."
+
+[evidence_required]
+9 = 2
+10 = 0
+11 = 0
+12 = 0
+default = 1

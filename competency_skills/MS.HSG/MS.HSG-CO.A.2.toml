@@ -1,0 +1,11 @@
+code = "MS.HSG-CO.A.2"
+competency_code = "MS.HSG"
+descriptor = "CO.A.2 Experiment with transformations in the plane"
+statement = "Represent transformations in the plane using, e.g., transparencies and geometry software; describe transformations as functions that take points in the plane as inputs and give other points as outputs. Compare transformations that preserve distance and angle to those that do not (e.g., translation versus horizontal stretch)."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 2
+12 = 0
+default = 1

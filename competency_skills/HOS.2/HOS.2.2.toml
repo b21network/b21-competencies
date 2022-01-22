@@ -1,0 +1,11 @@
+code = "HOS.2.2"
+competency_code = "HOS.2"
+descriptor = "Set goals and create action plans"
+statement = "How well do I set, achieve, and reflect on my goals?"
+
+[evidence_required]
+9 = 4
+10 = 4
+11 = 4
+12 = 4
+default = 1

@@ -1,0 +1,11 @@
+code = "MS.HSF-BF.A.1.B"
+competency_code = "MS.HSF"
+descriptor = "BF.A.1.B Build a function that models a relationship between two quantities"
+statement = "Combine standard function types using arithmetic operations. For example, build a function that models the temperature of a cooling body by adding a constant function to a decaying exponential, and relate these functions to the model."
+
+[evidence_required]
+9 = 0
+10 = 1
+11 = 0
+12 = 0
+default = 1

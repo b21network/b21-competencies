@@ -1,0 +1,11 @@
+code = "MS.HSA-REI.B.4"
+competency_code = "MS.HSA"
+descriptor = "REI.B.4 Solve equations and inequalities in one variable"
+statement = "Solve quadratic equations in one variable. "
+
+[evidence_required]
+9 = 1
+10 = 0
+11 = 0
+12 = 0
+default = 1

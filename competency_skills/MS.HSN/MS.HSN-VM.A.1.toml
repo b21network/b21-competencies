@@ -1,0 +1,11 @@
+code = "MS.HSN-VM.A.1"
+competency_code = "MS.HSN"
+descriptor = "VM.A.1 Represent and model with vector quantities."
+statement = "Recognize vector quantities as having both magnitude and direction. Represent vector quantities by directed line segments, and use appropriate symbols for vectors and their magnitudes (e.g., v, |v|, ||v||, v)."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 0
+12 = 0
+default = 1

@@ -1,0 +1,11 @@
+code = "MS.HSG-GMD.A.3"
+competency_code = "MS.HSG"
+descriptor = "GMD.A.3 Explain volume formulas and use them to solve problems"
+statement = "Use volume formulas for cylinders, pyramids, cones, and spheres to solve problems.*"
+
+[evidence_required]
+9 = 0
+10 = 1
+11 = 3
+12 = 0
+default = 1

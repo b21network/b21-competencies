@@ -1,0 +1,11 @@
+code = "MS.HSN-CN.C.7"
+competency_code = "MS.HSN"
+descriptor = "CN.C.7 Use complex numbers in polynomial identities and equations."
+statement = "Solve quadratic equations with real coefficients that have complex solutions."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 0
+12 = 0
+default = 1

@@ -1,0 +1,11 @@
+code = "SCI.4.1"
+competency_code = "SCI.4"
+descriptor = "Construct evidence-based explanations"
+statement = "How well do I communicate my findings and use data to support my claims?"
+
+[evidence_required]
+9 = 1
+10 = 1
+11 = 2
+12 = 3
+default = 1

@@ -1,0 +1,11 @@
+code = "MS.HSF-LE.A.4"
+competency_code = "MS.HSF"
+descriptor = "LE.A.4 Construct and compare linear and exponential models and solve problems"
+statement = "For exponential models, express as a logarithm the solution to ab^(ct) = d where a, c, and d are numbers and the base b is 2, 10, or e; evaluate the logarithm using technology.*"
+
+[evidence_required]
+9 = 0
+10 = 1
+11 = 0
+12 = 0
+default = 1

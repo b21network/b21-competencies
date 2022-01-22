@@ -1,0 +1,11 @@
+code = "PE.2.2"
+competency_code = "PE.2"
+descriptor = "Demonstrate responsible behavior during physical activities"
+statement = "I can demonstrate responsible and ethical personal behavior while participating in physical activities."
+
+[evidence_required]
+9 = 0
+10 = 4
+11 = 0
+12 = 0
+default = 1

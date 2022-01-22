@@ -1,0 +1,11 @@
+code = "SCI.1.1"
+competency_code = "SCI.1"
+descriptor = "Ask a scientific question"
+statement = "How well can I ask a scientific question?"
+
+[evidence_required]
+9 = 2
+10 = 2
+11 = 3
+12 = 3
+default = 1

@@ -1,0 +1,11 @@
+code = "MS.HSS-MD.B.5.B"
+competency_code = "MS.HSS"
+descriptor = "MD.B.5.B Use probability to evaluate outcomes of decisions"
+statement = "Evaluate and compare strategies on the basis of expected values. For example, compare a high-deductible versus a low- deductible automobile insurance policy using various, but reasonable, chances of having a minor or a major accident."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 0
+12 = 0
+default = 1

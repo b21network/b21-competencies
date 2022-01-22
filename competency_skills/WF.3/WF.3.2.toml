@@ -1,0 +1,11 @@
+code = "WF.3.2"
+competency_code = "WF.3"
+descriptor = "Mock Interview"
+statement = "I can conduct myself professionally in a mock job interview."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 1
+12 = 0
+default = 1

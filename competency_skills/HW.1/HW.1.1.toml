@@ -1,0 +1,11 @@
+code = "HW.1.1"
+competency_code = "HW.1"
+descriptor = "Analyze the four dimensions of health"
+statement = "How well can I analyze the four dimensions of health?"
+
+[evidence_required]
+9 = 0
+10 = 2
+11 = 0
+12 = 0
+default = 1

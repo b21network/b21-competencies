@@ -1,0 +1,11 @@
+code = "HOS.2.3"
+competency_code = "HOS.2"
+descriptor = "Create post-secondary plan"
+statement = "How well do I plan for life after high school?"
+
+[evidence_required]
+9 = 1
+10 = 1
+11 = 1
+12 = 1
+default = 1

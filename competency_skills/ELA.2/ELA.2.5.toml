@@ -1,0 +1,11 @@
+code = "ELA.2.5"
+competency_code = "ELA.2"
+descriptor = "Engage, respond and reflect"
+statement = "How well can I answer questions and reflect on both my process and final product?"
+
+[evidence_required]
+9 = 4
+10 = 4
+11 = 3
+12 = 2
+default = 1

@@ -1,0 +1,11 @@
+code = "MS.HSF-IF.C.8.B"
+competency_code = "MS.HSF"
+descriptor = "IF.C.8.B Analyze functions using different representations"
+statement = "Use the properties of exponents to interpret expressions for exponential functions. For example, identify percent rate of change in functions such as y = (1.02)^t, y = (0.97)^t, y = (1.01)^(12t), y = (1.2)^(t/10), and classify them as representing exponential growth or decay."
+
+[evidence_required]
+9 = 1
+10 = 0
+11 = 0
+12 = 0
+default = 1

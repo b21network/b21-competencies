@@ -1,0 +1,11 @@
+code = "MATH.2.2"
+competency_code = "MATH.2"
+descriptor = "Critique mathematical reasoning"
+statement = "How well can I critique my mathematical reasoning and the reasoning of others?"
+
+[evidence_required]
+9 = 4
+10 = 4
+11 = 4
+12 = 4
+default = 1

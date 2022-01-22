@@ -1,0 +1,11 @@
+code = "MS.HSS-CP.B.6"
+competency_code = "MS.HSS"
+descriptor = "CP.B.6 Use the rules of probability to compute probabilities of compound events in a uniform probability model"
+statement = "Find the conditional probability of A given B as the fraction of B's outcomes that also belong to A, and interpret the answer in terms of the model."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 1
+12 = 0
+default = 1

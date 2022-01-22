@@ -1,0 +1,11 @@
+code = "MS.HSA-REI.C.5"
+competency_code = "MS.HSA"
+descriptor = "REI.C.5 Solve systems of equations"
+statement = "Prove that, given a system of two equations in two variables, replacing one equation by the sum of that equation and a multiple of the other produces a system with the same solutions."
+
+[evidence_required]
+9 = 1
+10 = 0
+11 = 0
+12 = 0
+default = 1

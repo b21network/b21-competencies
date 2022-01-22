@@ -1,0 +1,11 @@
+code = "MS.HSA-SSE.A.1"
+competency_code = "MS.HSA"
+descriptor = "SSE.A.1 Interpret the structure of expressions"
+statement = "Interpret expressions that represent a quantity in terms of its context."
+
+[evidence_required]
+9 = 3
+10 = 1
+11 = 0
+12 = 0
+default = 1

@@ -1,0 +1,11 @@
+code = "VA.1.2"
+competency_code = "VA.1"
+descriptor = "Organize and develop a project plan"
+statement = "How well do I develop my project plan?"
+
+[evidence_required]
+9 = 2
+10 = 2
+11 = 3
+12 = 3
+default = 1

@@ -1,0 +1,11 @@
+code = "MS.HSG-CO.D.13"
+competency_code = "MS.HSG"
+descriptor = "CO.D.13 Make geometric constructions"
+statement = "Construct an equilateral triangle, a square, and a regular hexagon inscribed in a circle."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 1
+12 = 0
+default = 1

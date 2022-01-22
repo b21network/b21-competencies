@@ -1,0 +1,11 @@
+code = "MS.HSF-LE.A.3"
+competency_code = "MS.HSF"
+descriptor = "LE.A.3 Construct and compare linear and exponential models and solve problems"
+statement = "Observe using graphs and tables that a quantity increasing exponentially eventually exceeds a quantity increasing linearly, quadratically, or (more generally) as a polynomial function.*"
+
+[evidence_required]
+9 = 2
+10 = 0
+11 = 0
+12 = 0
+default = 1

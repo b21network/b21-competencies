@@ -1,0 +1,11 @@
+code = "WF.3.3"
+competency_code = "WF.3"
+descriptor = "Career Interest and Strength Finding Surveys"
+statement = "I can complete the career interest and strength finding surveys in my PLP and reflect on my results."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 1
+12 = 0
+default = 1

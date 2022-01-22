@@ -1,0 +1,11 @@
+code = "HW.1.2"
+competency_code = "HW.1"
+descriptor = "Explain causes of health problems and solutions for prevention and reduction"
+statement = "How well can I explain causes of health problems and solutions for prevention and reduction?"
+
+[evidence_required]
+9 = 0
+10 = 2
+11 = 0
+12 = 0
+default = 1

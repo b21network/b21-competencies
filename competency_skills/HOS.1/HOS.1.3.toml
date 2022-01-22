@@ -1,0 +1,11 @@
+code = "HOS.1.3"
+competency_code = "HOS.1"
+descriptor = "Staying focused and on task"
+statement = "How well do I stay focused and on task?"
+
+[evidence_required]
+9 = 4
+10 = 4
+11 = 4
+12 = 4
+default = 1

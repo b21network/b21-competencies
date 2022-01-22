@@ -1,0 +1,11 @@
+code = "SS.1.5"
+competency_code = "SS.1"
+descriptor = "Analyze causes, effects, and continuity and change"
+statement = "How well can I understand, analyze, and explain the causes and effects of an event that demonstrate continuity and/or change?"
+
+[evidence_required]
+9 = 2
+10 = 3
+11 = 4
+12 = 2
+default = 1

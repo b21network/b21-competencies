@@ -1,0 +1,11 @@
+code = "MS.HSF-IF.B.5"
+competency_code = "MS.HSF"
+descriptor = "IF.B.5 Interpret functions that arise in applications in terms of the context"
+statement = "Relate the domain of a function to its graph and, where applicable, to the quantitative relationship it describes. For example, if the function h(n) gives the number of person-hours it takes to assemble n engines in a factory, then the positive integers would be an appropriate domain for the function.*"
+
+[evidence_required]
+9 = 4
+10 = 1
+11 = 0
+12 = 0
+default = 1

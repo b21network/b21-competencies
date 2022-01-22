@@ -1,0 +1,11 @@
+code = "MS.HSA-APR.B.2"
+competency_code = "MS.HSA"
+descriptor = "APR.B.2 Understand the relationship between zeros and factors of polynomials"
+statement = "Know and apply the Remainder Theorem: For a polynomial p(x) and a number a, the remainder on division by x - a is p(a), so p(a) = 0 if and only if (x - a) is a factor of p(x)."
+
+[evidence_required]
+9 = 0
+10 = 1
+11 = 0
+12 = 0
+default = 1

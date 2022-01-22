@@ -1,0 +1,11 @@
+code = "NGE.1.4"
+competency_code = "NGE.1"
+descriptor = "Use technology"
+statement = "How well do I use technology to building knowledge and demonstrate my learning?"
+
+[evidence_required]
+9 = 1
+10 = 3
+11 = 4
+12 = 4
+default = 1

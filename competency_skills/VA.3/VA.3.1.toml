@@ -1,0 +1,11 @@
+code = "VA.3.1"
+competency_code = "VA.3"
+descriptor = "Interpret meaning and intent in artistic work"
+statement = "How well do I analyze different interpretations of artistic work?"
+
+[evidence_required]
+9 = 1
+10 = 1
+11 = 2
+12 = 2
+default = 1

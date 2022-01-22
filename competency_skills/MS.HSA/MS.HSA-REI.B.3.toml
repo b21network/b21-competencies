@@ -1,0 +1,11 @@
+code = "MS.HSA-REI.B.3"
+competency_code = "MS.HSA"
+descriptor = "REI.B.3 Solve equations and inequalities in one variable"
+statement = "Solve linear equations and inequalities in one variable, including equations with coefficients represented by letters."
+
+[evidence_required]
+9 = 2
+10 = 0
+11 = 0
+12 = 0
+default = 1

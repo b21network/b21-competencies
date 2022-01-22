@@ -1,0 +1,11 @@
+code = "MS.HSN-VM.C.11"
+competency_code = "MS.HSN"
+descriptor = "VM.C.11 Perform operations on matrices & use matrices in applications."
+statement = "Multiply a vector (regarded as a matrix with one column) by a matrix of suitable dimensions to produce another vector. Work with matrices as transformations of vectors."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 0
+12 = 0
+default = 1

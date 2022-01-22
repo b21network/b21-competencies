@@ -1,0 +1,11 @@
+code = "VA.1.1"
+competency_code = "VA.1"
+descriptor = "Generate ideas for a visual art project"
+statement = "How well can I generate ideas for my art project?"
+
+[evidence_required]
+9 = 2
+10 = 2
+11 = 3
+12 = 3
+default = 1

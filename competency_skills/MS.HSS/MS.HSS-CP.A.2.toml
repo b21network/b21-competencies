@@ -1,0 +1,11 @@
+code = "MS.HSS-CP.A.2"
+competency_code = "MS.HSS"
+descriptor = "CP.A.2 Understand independence and conditional probability and use them to interpret data"
+statement = "Understand that two events A and B are independent if the probability of A and B occurring together is the product of their probabilities, and use this characterization to determine if they are independent."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 1
+12 = 0
+default = 1

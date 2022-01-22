@@ -1,0 +1,11 @@
+code = "MS.HSA-APR.C.5"
+competency_code = "MS.HSA"
+descriptor = "APR.C.5 Use polynomial identities to solve problems"
+statement = "Know and apply that the Binomial Theorem gives the expansion of (x + y)^n in powers of x and y for a positive integer n, where x and y are any numbers, with coefficients determined for example by Pascal's Triangle. (The Binomial Theorem can be proved by mathematical induction or by a combinatorial argument.)"
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 0
+12 = 0
+default = 1

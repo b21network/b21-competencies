@@ -1,0 +1,11 @@
+code = "SS.3.1"
+competency_code = "SS.3"
+descriptor = "Display and explain spatial patterns"
+statement = "How well can I create maps to display and explain the spatial patterns of cultural and environmental characteristics?"
+
+[evidence_required]
+9 = 2
+10 = 2
+11 = 2
+12 = 1
+default = 1

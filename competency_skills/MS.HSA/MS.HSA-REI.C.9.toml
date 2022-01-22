@@ -1,0 +1,11 @@
+code = "MS.HSA-REI.C.9"
+competency_code = "MS.HSA"
+descriptor = "REI.C.9 Solve systems of equations"
+statement = "Find the inverse of a matrix if it exists and use it to solve systems of linear equations (using technology for matrices of dimension 3 × 3 or greater)."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 0
+12 = 0
+default = 1

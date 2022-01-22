@@ -1,0 +1,11 @@
+code = "MS.HSN-VM.C.8"
+competency_code = "MS.HSN"
+descriptor = "VM.C.8 Perform operations on matrices & use matrices in applications."
+statement = "Add, subtract, and multiply matrices of appropriate dimensions."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 0
+12 = 0
+default = 1

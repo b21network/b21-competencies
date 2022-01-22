@@ -1,0 +1,11 @@
+code = "PE.1.1"
+competency_code = "PE.1"
+descriptor = "Use fitness data to establish personal health goals"
+statement = "I can evaluate information gained from health-related fitness assessments in order to establish personal fitness goals."
+
+[evidence_required]
+9 = 0
+10 = 4
+11 = 0
+12 = 0
+default = 1

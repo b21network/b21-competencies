@@ -1,0 +1,11 @@
+code = "WL.1.2"
+competency_code = "WL.1"
+descriptor = "Present to an Audience of Listeners and Viewers"
+statement = "How do I present information to an audience of listeners and viewers?"
+
+[evidence_required]
+9 = 4
+10 = 4
+11 = 0
+12 = 0
+default = 1

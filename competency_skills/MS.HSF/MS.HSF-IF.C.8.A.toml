@@ -1,0 +1,11 @@
+code = "MS.HSF-IF.C.8.A"
+competency_code = "MS.HSF"
+descriptor = "IF.C.8.A Analyze functions using different representations"
+statement = "Use the process of factoring and completing the square in a quadratic function to show zeros, extreme values, and symmetry of the graph, and interpret these in terms of a context."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 0
+12 = 0
+default = 1

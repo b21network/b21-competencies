@@ -1,0 +1,11 @@
+code = "MS.HSN-Q.A.2"
+competency_code = "MS.HSN"
+descriptor = "Q.A.2 Reason quantitatively and use units to solve problems."
+statement = "Define appropriate quantities for the purpose of descriptive modeling."
+
+[evidence_required]
+9 = 1
+10 = 2
+11 = 2
+12 = 0
+default = 1

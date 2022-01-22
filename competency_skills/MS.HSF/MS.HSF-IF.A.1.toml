@@ -1,0 +1,11 @@
+code = "MS.HSF-IF.A.1"
+competency_code = "MS.HSF"
+descriptor = "IF.A.1 Understand the concept of a function and use function notation"
+statement = "Understand that a function from one set (called the domain) to another set (called the range) assigns to each element of the domain exactly one element of the range. If f is a function and x is an element of its domain, then f(x) denotes the output of f corresponding to the input x. The graph of f is the graph of the equation y = f(x)."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 0
+12 = 0
+default = 1

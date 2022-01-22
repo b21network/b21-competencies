@@ -1,0 +1,11 @@
+code = "MS.HSF-BF.B.4"
+competency_code = "MS.HSF"
+descriptor = "BF.B.4 Build new functions from existing functions"
+statement = "Find inverse functions."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 0
+12 = 0
+default = 1

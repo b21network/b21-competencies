@@ -1,0 +1,11 @@
+code = "MS.HSF-TF.A.1"
+competency_code = "MS.HSF"
+descriptor = "TF.A.1 Extend the domain of trigonometric functions using the unit circle"
+statement = "Understand radian measure of an angle as the length of the arc on the unit circle subtended by the angle."
+
+[evidence_required]
+9 = 0
+10 = 1
+11 = 0
+12 = 0
+default = 1

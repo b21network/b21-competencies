@@ -1,0 +1,11 @@
+code = "MATH.1.4"
+competency_code = "MATH.1"
+descriptor = "Test possible solutions"
+statement = "How well can I test my solution to determine whether it makes sense and is free from errors?"
+
+[evidence_required]
+9 = 4
+10 = 4
+11 = 4
+12 = 4
+default = 1

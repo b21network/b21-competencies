@@ -1,0 +1,11 @@
+code = "HOS.3.3"
+competency_code = "HOS.3"
+descriptor = "Create and maintain a positive digital/online footprint"
+statement = "How well do I maintain a positive digital footprint?"
+
+[evidence_required]
+9 = 1
+10 = 1
+11 = 2
+12 = 2
+default = 1

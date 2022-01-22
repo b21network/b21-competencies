@@ -1,0 +1,11 @@
+code = "MS.HSA-APR.A.1"
+competency_code = "MS.HSA"
+descriptor = "APR.A.1 Perform arithmetic operations on polynomials"
+statement = "Understand that polynomials form a system analogous to the integers, namely, they are closed under the operations of addition, subtraction, and multiplication; add, subtract, and multiply polynomials."
+
+[evidence_required]
+9 = 0
+10 = 1
+11 = 0
+12 = 0
+default = 1

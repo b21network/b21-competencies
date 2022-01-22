@@ -1,0 +1,11 @@
+code = "MS.HSA-REI.A.2"
+competency_code = "MS.HSA"
+descriptor = "REI.A.2 Understand solving equations as a process of reasoning and explain the reasoning"
+statement = "Solve simple rational and radical equations in one variable, and give examples showing how extraneous solutions may arise."
+
+[evidence_required]
+9 = 0
+10 = 1
+11 = 0
+12 = 0
+default = 1

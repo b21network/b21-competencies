@@ -1,0 +1,11 @@
+code = "MS.HSA-SSE.B.3.A"
+competency_code = "MS.HSA"
+descriptor = "SSE.B.3.A Write expressions in equivalent forms to solve problems"
+statement = "Factor a quadratic expression to reveal the zeros of the function it defines."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 0
+12 = 0
+default = 1

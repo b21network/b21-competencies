@@ -1,0 +1,11 @@
+code = "WF.4.2"
+competency_code = "WF.4"
+descriptor = "Post-secondary Plan"
+statement = "I can create and execute my plans for after I graduate high school."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 0
+12 = 1
+default = 1

@@ -1,0 +1,11 @@
+code = "ELA.7.3"
+competency_code = "ELA.7"
+descriptor = "Use systems to organize information gathered"
+statement = "How well do I organize information from my sources?"
+
+[evidence_required]
+9 = 1
+10 = 2
+11 = 3
+12 = 2
+default = 1

@@ -1,0 +1,11 @@
+code = "MS.HSF-IF.C.7"
+competency_code = "MS.HSF"
+descriptor = "IF.C.7 Analyze functions using different representations"
+statement = "Graph functions expressed symbolically and show key features of the graph, by hand in simple cases and using technology for more complicated cases."
+
+[evidence_required]
+9 = 2
+10 = 1
+11 = 0
+12 = 0
+default = 1

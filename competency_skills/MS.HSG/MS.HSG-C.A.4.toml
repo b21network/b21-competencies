@@ -1,0 +1,11 @@
+code = "MS.HSG-C.A.4"
+competency_code = "MS.HSG"
+descriptor = "C.A.4 Understand and apply theorems about circles"
+statement = "Construct a tangent line from a point outside a given circle to the circle."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 0
+12 = 0
+default = 1

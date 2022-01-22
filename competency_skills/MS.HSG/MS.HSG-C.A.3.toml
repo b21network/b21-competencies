@@ -1,0 +1,11 @@
+code = "MS.HSG-C.A.3"
+competency_code = "MS.HSG"
+descriptor = "C.A.3 Understand and apply theorems about circles"
+statement = "Construct the inscribed and circumscribed circles of a triangle, and prove properties of angles for a quadrilateral inscribed in a circle."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 1
+12 = 0
+default = 1

@@ -1,0 +1,11 @@
+code = "NGE.4.2"
+competency_code = "NGE.4"
+descriptor = "Structure"
+statement = "How well do I organize my writing?"
+
+[evidence_required]
+9 = 1
+10 = 1
+11 = 3
+12 = 4
+default = 1

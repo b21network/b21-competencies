@@ -1,0 +1,11 @@
+code = "SCI.1.4"
+competency_code = "SCI.1"
+descriptor = "Plan and organize an investigation"
+statement = "How well can I plan an investigation?"
+
+[evidence_required]
+9 = 2
+10 = 2
+11 = 3
+12 = 3
+default = 1

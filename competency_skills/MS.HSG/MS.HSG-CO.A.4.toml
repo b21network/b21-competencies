@@ -1,0 +1,11 @@
+code = "MS.HSG-CO.A.4"
+competency_code = "MS.HSG"
+descriptor = "CO.A.4 Experiment with transformations in the plane"
+statement = "Develop definitions of rotations, reflections, and translations in terms of angles, circles, perpendicular lines, parallel lines, and line segments."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 0
+12 = 0
+default = 1

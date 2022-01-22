@@ -1,0 +1,11 @@
+code = "MS.HSS-IC.B.4"
+competency_code = "MS.HSS"
+descriptor = "IC.B.4 Make inferences and justify conclusions from sample surveys, experiments, and observational studies"
+statement = "Use data from a sample survey to estimate a population mean or proportion; develop a margin of error through the use of simulation models for random sampling."
+
+[evidence_required]
+9 = 0
+10 = 1
+11 = 0
+12 = 0
+default = 1

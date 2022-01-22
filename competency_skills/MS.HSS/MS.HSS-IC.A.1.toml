@@ -1,0 +1,11 @@
+code = "MS.HSS-IC.A.1"
+competency_code = "MS.HSS"
+descriptor = "IC.A.1 Understand and evaluate random processes underlying statistical experiments"
+statement = "Understand statistics as a process for making inferences about population parameters based on a random sample from that population."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 0
+12 = 0
+default = 1

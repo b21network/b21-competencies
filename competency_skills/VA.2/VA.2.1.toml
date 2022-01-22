@@ -1,0 +1,11 @@
+code = "VA.2.1"
+competency_code = "VA.2"
+descriptor = "Analyze, interpret, and select artistic work for presentation"
+statement = "How well do I analyze and select artistic work for presentation?"
+
+[evidence_required]
+9 = 1
+10 = 1
+11 = 2
+12 = 2
+default = 1

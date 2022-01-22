@@ -1,0 +1,11 @@
+code = "MS.HSF-TF.A.3"
+competency_code = "MS.HSF"
+descriptor = "TF.A.3 Extend the domain of trigonometric functions using the unit circle"
+statement = "Use special triangles to determine geometrically the values of sine, cosine, tangent for (pi)/3, (pi)/4 and (pi)/6, and use the unit circle to express the values of sine, cosine, and tangent for x, [(pi) + x], and [2(pi) - x] in terms of their values for x, where x is any real number."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 0
+12 = 0
+default = 1

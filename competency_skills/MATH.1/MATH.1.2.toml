@@ -1,0 +1,11 @@
+code = "MATH.1.2"
+competency_code = "MATH.1"
+descriptor = "Model the problem"
+statement = "How well can I model the problem?"
+
+[evidence_required]
+9 = 4
+10 = 4
+11 = 4
+12 = 4
+default = 1

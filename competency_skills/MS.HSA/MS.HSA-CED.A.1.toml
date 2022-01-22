@@ -1,0 +1,11 @@
+code = "MS.HSA-CED.A.1"
+competency_code = "MS.HSA"
+descriptor = "CED.A.1 Create equations that describe numbers or relationships"
+statement = "Create equations and inequalities in one variable and use them to solve problems. Include equations arising from linear and quadratic functions, and simple rational and exponential functions.*"
+
+[evidence_required]
+9 = 2
+10 = 0
+11 = 0
+12 = 0
+default = 1

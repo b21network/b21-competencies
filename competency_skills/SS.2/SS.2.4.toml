@@ -1,0 +1,11 @@
+code = "SS.2.4"
+competency_code = "SS.2"
+descriptor = "Take Action"
+statement = "How well can I plan and take action to address local, national, and global problems by engaging multiple stakeholders and reflecting on key learnings through the experience?"
+
+[evidence_required]
+9 = 1
+10 = 1
+11 = 2
+12 = 2
+default = 1

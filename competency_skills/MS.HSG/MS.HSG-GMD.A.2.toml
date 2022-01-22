@@ -1,0 +1,11 @@
+code = "MS.HSG-GMD.A.2"
+competency_code = "MS.HSG"
+descriptor = "GMD.A.2 Explain volume formulas and use them to solve problems"
+statement = "Give an informal argument using Cavalieri's principle for the formulas for the volume of a sphere and other solid figures."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 0
+12 = 0
+default = 1

@@ -1,0 +1,11 @@
+code = "MS.HSG-MG.A.2"
+competency_code = "MS.HSG"
+descriptor = "MG.A.2 Apply geometric concepts in modeling situations"
+statement = "Apply concepts of density based on area and volume in modeling situations (e.g., persons per square mile, BTUs per cubic foot).*"
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 2
+12 = 0
+default = 1

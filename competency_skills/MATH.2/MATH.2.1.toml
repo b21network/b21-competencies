@@ -1,0 +1,11 @@
+code = "MATH.2.1"
+competency_code = "MATH.2"
+descriptor = "State and defend my solution"
+statement = "How well can I defend my solution and explain my process?"
+
+[evidence_required]
+9 = 4
+10 = 4
+11 = 4
+12 = 4
+default = 1

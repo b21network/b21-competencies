@@ -1,0 +1,11 @@
+code = "MS.HSA-SSE.A.1.A"
+competency_code = "MS.HSA"
+descriptor = "SSE.A.1.A Interpret the structure of expressions"
+statement = "Interpret parts of an expression, such as terms, factors, and coefficients."
+
+[evidence_required]
+9 = 1
+10 = 0
+11 = 0
+12 = 0
+default = 1

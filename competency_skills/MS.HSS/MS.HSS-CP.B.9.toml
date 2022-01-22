@@ -1,0 +1,11 @@
+code = "MS.HSS-CP.B.9"
+competency_code = "MS.HSS"
+descriptor = "CP.B.9 Use the rules of probability to compute probabilities of compound events in a uniform probability model"
+statement = "Use permutations and combinations to compute probabilities of compound events and solve problems."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 0
+12 = 0
+default = 1

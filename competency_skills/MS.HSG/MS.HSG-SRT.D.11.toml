@@ -1,0 +1,11 @@
+code = "MS.HSG-SRT.D.11"
+competency_code = "MS.HSG"
+descriptor = "SRT.D.11 Apply trigonometry to general triangles"
+statement = "Understand and apply the Law of Sines and the Law of Cosines to find unknown measurements in right and non-right triangles (e.g., surveying problems, resultant forces)."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 0
+12 = 0
+default = 1

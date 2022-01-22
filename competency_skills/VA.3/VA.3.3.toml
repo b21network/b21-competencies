@@ -1,0 +1,11 @@
+code = "VA.3.3"
+competency_code = "VA.3"
+descriptor = "Relate artistic ideas and works with societal, cultural and historical contexts"
+statement = "How well can I relate artistic ideas to societal and cultural beliefs and values?"
+
+[evidence_required]
+9 = 1
+10 = 1
+11 = 2
+12 = 2
+default = 1

@@ -1,0 +1,11 @@
+code = "HOS.4.2"
+competency_code = "HOS.4"
+descriptor = "Communicate effectively"
+statement = "How effectively do I communicate with others?"
+
+[evidence_required]
+9 = 1
+10 = 1
+11 = 2
+12 = 4
+default = 1

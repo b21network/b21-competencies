@@ -1,0 +1,11 @@
+code = "MS.HSG-CO.B.8"
+competency_code = "MS.HSG"
+descriptor = "CO.B.8 Understand congruence in terms of rigid motions"
+statement = "Explain how the criteria for triangle congruence (ASA, SAS, and SSS) follow from the definition of congruence in terms of rigid motions."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 1
+12 = 0
+default = 1

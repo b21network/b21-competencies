@@ -1,0 +1,11 @@
+code = "ELA.3.1"
+competency_code = "ELA.3"
+descriptor = "Introduce claims"
+statement = "How well do I introduce my claim?"
+
+[evidence_required]
+9 = 1
+10 = 1
+11 = 2
+12 = 2
+default = 1

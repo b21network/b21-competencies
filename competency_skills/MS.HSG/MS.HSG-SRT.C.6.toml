@@ -1,0 +1,11 @@
+code = "MS.HSG-SRT.C.6"
+competency_code = "MS.HSG"
+descriptor = "SRT.C.6 Define trigonometric ratios and solve problems involving right triangles"
+statement = "Understand that by similarity, side ratios in right triangles are properties of the angles in the triangle, leading to definitions of trigonometric ratios for acute angles."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 1
+12 = 0
+default = 1

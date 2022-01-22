@@ -1,0 +1,11 @@
+code = "MS.HSS-ID.A.2"
+competency_code = "MS.HSS"
+descriptor = "ID.A.2 Summarize, represent, and interpret data on a single count or measurement variable"
+statement = "Use statistics appropriate to the shape of the data distribution to compare center (median, mean) and spread (interquartile range, standard deviation) of two or more different data sets."
+
+[evidence_required]
+9 = 1
+10 = 2
+11 = 0
+12 = 0
+default = 1

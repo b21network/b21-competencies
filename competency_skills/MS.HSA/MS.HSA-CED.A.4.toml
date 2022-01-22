@@ -1,0 +1,11 @@
+code = "MS.HSA-CED.A.4"
+competency_code = "MS.HSA"
+descriptor = "CED.A.4 Create equations that describe numbers or relationships"
+statement = "Rearrange formulas to highlight a quantity of interest, using the same reasoning as in solving equations. For example, rearrange Ohm's law V = IR to highlight resistance R.*"
+
+[evidence_required]
+9 = 0
+10 = 1
+11 = 0
+12 = 0
+default = 1

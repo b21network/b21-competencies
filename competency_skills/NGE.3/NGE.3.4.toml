@@ -1,0 +1,11 @@
+code = "NGE.3.4"
+competency_code = "NGE.3"
+descriptor = "Reflect on our product and process"
+statement = "How well do I reflect on how our team worked together and on my individual contributions to the team?"
+
+[evidence_required]
+9 = 1
+10 = 2
+11 = 3
+12 = 2
+default = 1

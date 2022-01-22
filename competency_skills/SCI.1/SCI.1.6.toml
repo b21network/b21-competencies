@@ -1,0 +1,11 @@
+code = "SCI.1.6"
+competency_code = "SCI.1"
+descriptor = "Carry out the experiment"
+statement = "How well can I test my prediction by carrying out my plan?"
+
+[evidence_required]
+9 = 2
+10 = 2
+11 = 3
+12 = 3
+default = 1

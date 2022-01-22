@@ -1,0 +1,11 @@
+code = "NGE.1.3"
+competency_code = "NGE.1"
+descriptor = "Solve a real-world problem"
+statement = "How well do I create a product that solves a real-world problem and impacts an authentic audience?"
+
+[evidence_required]
+9 = 1
+10 = 3
+11 = 4
+12 = 4
+default = 1

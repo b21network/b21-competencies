@@ -1,0 +1,11 @@
+code = "MS.HSG-SRT.A.1"
+competency_code = "MS.HSG"
+descriptor = "SRT.A.1 Understand similarity in terms of similarity transformations"
+statement = "Verify experimentally the properties of dilations given by a center and a scale factor."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 0
+12 = 0
+default = 1

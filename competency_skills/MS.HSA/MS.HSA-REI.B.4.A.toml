@@ -1,0 +1,11 @@
+code = "MS.HSA-REI.B.4.A"
+competency_code = "MS.HSA"
+descriptor = "REI.B.4.A Solve equations and inequalities in one variable"
+statement = "Use the method of completing the square to transforms any quadratic equation in x into an equation of the form (x - p)^2 = q that has the same solutions. Derive the quadratic formula from this form. "
+
+[evidence_required]
+9 = 1
+10 = 0
+11 = 0
+12 = 0
+default = 1

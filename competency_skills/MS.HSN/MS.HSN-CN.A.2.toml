@@ -1,0 +1,11 @@
+code = "MS.HSN-CN.A.2"
+competency_code = "MS.HSN"
+descriptor = "CN.A.2 Perform arithmetic operations with complex numbers."
+statement = "Use the relation i^2 = -1 and the commutative, associative, and distributive properties to add, subtract, and multiply complex numbers."
+
+[evidence_required]
+9 = 0
+10 = 1
+11 = 0
+12 = 0
+default = 1

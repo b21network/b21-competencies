@@ -1,0 +1,11 @@
+code = "ELA.3.6"
+competency_code = "ELA.3"
+descriptor = "Strengthen writing through revision"
+statement = "How well do I strengthen my writing through a revision process?"
+
+[evidence_required]
+9 = 1
+10 = 1
+11 = 2
+12 = 2
+default = 1

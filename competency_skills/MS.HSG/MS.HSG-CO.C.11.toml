@@ -1,0 +1,11 @@
+code = "MS.HSG-CO.C.11"
+competency_code = "MS.HSG"
+descriptor = "CO.C.11 Prove geometric theorems"
+statement = "Prove theorems about parallelograms. Theorems include: opposite sides are congruent, opposite angles are congruent, the diagonals of a parallelogram bisect each other, and conversely, rectangles are parallelograms with congruent diagonals."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 1
+12 = 0
+default = 1

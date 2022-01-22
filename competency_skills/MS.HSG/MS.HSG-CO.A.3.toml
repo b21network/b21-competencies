@@ -1,0 +1,11 @@
+code = "MS.HSG-CO.A.3"
+competency_code = "MS.HSG"
+descriptor = "CO.A.3 Experiment with transformations in the plane"
+statement = "Given a rectangle, parallelogram, trapezoid, or regular polygon, describe the rotations and reflections that carry it onto itself."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 1
+12 = 0
+default = 1

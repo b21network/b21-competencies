@@ -1,0 +1,11 @@
+code = "MS.HSS-ID.A.1"
+competency_code = "MS.HSS"
+descriptor = "ID.A.1 Summarize, represent, and interpret data on a single count or measurement variable"
+statement = "Represent data with plots on the real number line (dot plots, histograms, and box plots)."
+
+[evidence_required]
+9 = 2
+10 = 0
+11 = 0
+12 = 0
+default = 1

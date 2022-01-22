@@ -1,0 +1,11 @@
+code = "MS.HSG-GPE.B.6"
+competency_code = "MS.HSG"
+descriptor = "GPE.B.6 Use coordinates to prove simple geometric theorems algebraically"
+statement = "Find the point on a directed line segment between two given points that partitions the segment in a given ratio."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 0
+12 = 0
+default = 1

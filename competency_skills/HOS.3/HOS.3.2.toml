@@ -1,0 +1,11 @@
+code = "HOS.3.2"
+competency_code = "HOS.3"
+descriptor = "Seek support and resources"
+statement = "How well do I seek out support and resources from my network?"
+
+[evidence_required]
+9 = 1
+10 = 1
+11 = 2
+12 = 2
+default = 1

@@ -1,0 +1,11 @@
+code = "MS.HSF-IF.C.7.E"
+competency_code = "MS.HSF"
+descriptor = "IF.C.7.E Analyze functions using different representations"
+statement = "Graph exponential and logarithmic functions, showing intercepts and end behavior, and trigonometric functions, showing period, midline, and amplitude."
+
+[evidence_required]
+9 = 0
+10 = 2
+11 = 0
+12 = 0
+default = 1

@@ -1,0 +1,11 @@
+code = "MS.HSG-GPE.B.4"
+competency_code = "MS.HSG"
+descriptor = "GPE.B.4 Use coordinates to prove simple geometric theorems algebraically"
+statement = "Use coordinates to prove simple geometric theorems algebraically. For example, prove or disprove that a figure defined by four given points in the coordinate plane is a rectangle; prove or disprove that the point (1, sqrt3) lies on the circle centered at the origin and containing the point (0, 2)."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 1
+12 = 0
+default = 1

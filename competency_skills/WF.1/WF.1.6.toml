@@ -1,0 +1,11 @@
+code = "WF.1.6"
+competency_code = "WF.1"
+descriptor = "Student Led PLP Conference"
+statement = "I can lead a PLP conference and explain my progress, goals, challenges, and barriers to success."
+
+[evidence_required]
+9 = 1
+10 = 0
+11 = 0
+12 = 0
+default = 1

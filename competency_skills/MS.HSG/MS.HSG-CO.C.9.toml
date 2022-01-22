@@ -1,0 +1,11 @@
+code = "MS.HSG-CO.C.9"
+competency_code = "MS.HSG"
+descriptor = "CO.C.9 Prove geometric theorems"
+statement = "Prove theorems about lines and angles. Theorems include: vertical angles are congruent; when a transversal crosses parallel lines, alternate interior angles are congruent and corresponding angles are congruent; points on a perpendicular bisector of a line segment are exactly those equidistant from the segment's endpoints."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 1
+12 = 0
+default = 1

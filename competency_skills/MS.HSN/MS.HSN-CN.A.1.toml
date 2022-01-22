@@ -1,0 +1,11 @@
+code = "MS.HSN-CN.A.1"
+competency_code = "MS.HSN"
+descriptor = "CN.A.1 Perform arithmetic operations with complex numbers."
+statement = "Know there is a complex number i such that i^2 = -1, and every complex number has the form a + bi with a and b real."
+
+[evidence_required]
+9 = 0
+10 = 1
+11 = 0
+12 = 0
+default = 1

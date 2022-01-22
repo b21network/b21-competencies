@@ -1,0 +1,11 @@
+code = "SS.2.2"
+competency_code = "SS.2"
+descriptor = "Examine Enduring Problems"
+statement = "How well can I identify and investigate specific problems or issues in my local, national, or global community?"
+
+[evidence_required]
+9 = 1
+10 = 1
+11 = 2
+12 = 2
+default = 1

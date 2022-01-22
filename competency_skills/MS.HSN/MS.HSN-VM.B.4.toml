@@ -1,0 +1,11 @@
+code = "MS.HSN-VM.B.4"
+competency_code = "MS.HSN"
+descriptor = "VM.B.4 Perform operations on vectors."
+statement = "Add and subtract vectors."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 0
+12 = 0
+default = 1

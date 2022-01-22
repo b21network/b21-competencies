@@ -1,0 +1,11 @@
+code = "HW.2.1"
+competency_code = "HW.2"
+descriptor = "Evaluate health information, products, and services"
+statement = "How well can I evaluate different health information, products, and services?"
+
+[evidence_required]
+9 = 0
+10 = 2
+11 = 0
+12 = 0
+default = 1

@@ -1,0 +1,11 @@
+code = "MS.HSS-ID.B.6.C"
+competency_code = "MS.HSS"
+descriptor = "ID.B.6.C Summarize, represent, and interpret data on two categorical and quantitative variables"
+statement = "Fit a linear function for a scatter plot that suggest a linear association."
+
+[evidence_required]
+9 = 1
+10 = 0
+11 = 0
+12 = 0
+default = 1

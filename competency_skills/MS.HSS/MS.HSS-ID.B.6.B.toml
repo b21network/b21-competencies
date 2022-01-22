@@ -1,0 +1,11 @@
+code = "MS.HSS-ID.B.6.B"
+competency_code = "MS.HSS"
+descriptor = "ID.B.6.B Summarize, represent, and interpret data on two categorical and quantitative variables"
+statement = "Informally assess the fit of a function by plotting and analyzing residuals."
+
+[evidence_required]
+9 = 1
+10 = 0
+11 = 0
+12 = 0
+default = 1

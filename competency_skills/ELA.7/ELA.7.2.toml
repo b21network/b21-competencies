@@ -1,0 +1,11 @@
+code = "ELA.7.2"
+competency_code = "ELA.7"
+descriptor = "Identify and select credible, diverse sources to gather evidence"
+statement = "How well can I identify and select credible, diverse sources?"
+
+[evidence_required]
+9 = 1
+10 = 2
+11 = 3
+12 = 2
+default = 1

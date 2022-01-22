@@ -1,0 +1,11 @@
+code = "MS.HSN-RN.A.2"
+competency_code = "MS.HSN"
+descriptor = "RN.A.2 Extend the properties of exponents to rational exponents."
+statement = "Rewrite expressions involving radicals and rational exponents using the properties of exponents."
+
+[evidence_required]
+9 = 0
+10 = 2
+11 = 0
+12 = 0
+default = 1

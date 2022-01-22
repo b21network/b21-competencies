@@ -1,0 +1,11 @@
+code = "HW.3.2"
+competency_code = "HW.3"
+descriptor = "Influence and support others in healthy decision-making"
+statement = "How do I influence and support others in healthy decision-making?"
+
+[evidence_required]
+9 = 0
+10 = 2
+11 = 0
+12 = 0
+default = 1

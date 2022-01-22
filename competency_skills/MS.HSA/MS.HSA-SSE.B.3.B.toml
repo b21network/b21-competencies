@@ -1,0 +1,11 @@
+code = "MS.HSA-SSE.B.3.B"
+competency_code = "MS.HSA"
+descriptor = "SSE.B.3.B Write expressions in equivalent forms to solve problems"
+statement = "Complete the square in a quadratic expression to reveal the maximum or minimum value of the function it defines."
+
+[evidence_required]
+9 = 1
+10 = 0
+11 = 0
+12 = 0
+default = 1

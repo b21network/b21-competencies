@@ -1,0 +1,11 @@
+code = "VA.1.4"
+competency_code = "VA.1"
+descriptor = "Refine and improve the work"
+statement = "How well do I revise and improve my project?"
+
+[evidence_required]
+9 = 2
+10 = 2
+11 = 3
+12 = 3
+default = 1

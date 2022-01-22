@@ -1,0 +1,11 @@
+code = "MS.HSN-VM.C.6"
+competency_code = "MS.HSN"
+descriptor = "VM.C.6 Perform operations on matrices & use matrices in applications."
+statement = "Use matrices to represent and manipulate data, e.g., to represent payoffs or incidence relationships in a network."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 0
+12 = 0
+default = 1

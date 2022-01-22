@@ -1,0 +1,11 @@
+code = "MS.HSG-CO.C.10"
+competency_code = "MS.HSG"
+descriptor = "CO.C.10 Prove geometric theorems"
+statement = "Prove theorems about triangles. Theorems include: measures of interior angles of a triangle sum to 180 degrees; base angles of isosceles triangles are congruent; the segment joining midpoints of two sides of a triangle is parallel to the third side and half the length; the medians of a triangle meet at a point."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 2
+12 = 0
+default = 1

@@ -1,0 +1,11 @@
+code = "MS.HSG-GPE.A.1"
+competency_code = "MS.HSG"
+descriptor = "GPE.A.1 Translate between the geometric description and the equation for a conic section"
+statement = "Derive the equation of a circle of given center and radius using the Pythagorean Theorem; complete the square to find the center and radius of a circle given by an equation."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 1
+12 = 0
+default = 1

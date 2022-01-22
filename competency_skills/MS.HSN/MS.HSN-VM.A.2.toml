@@ -1,0 +1,11 @@
+code = "MS.HSN-VM.A.2"
+competency_code = "MS.HSN"
+descriptor = "VM.A.2 Represent and model with vector quantities."
+statement = "Find the components of a vector by subtracting the coordinates of an initial point from the coordinates of a terminal point."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 0
+12 = 0
+default = 1

@@ -1,0 +1,11 @@
+code = "ELA.1.3"
+competency_code = "ELA.1"
+descriptor = "Analyze context, point of view, and purpose"
+statement = "How well do I account for the role of point of view and author's purpose in shaping the text?"
+
+[evidence_required]
+9 = 4
+10 = 4
+11 = 3
+12 = 2
+default = 1

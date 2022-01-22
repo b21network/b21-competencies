@@ -1,0 +1,11 @@
+code = "MS.HSF-LE.A.1.B"
+competency_code = "MS.HSF"
+descriptor = "LE.A.1.B Construct and compare linear and exponential models and solve problems"
+statement = "Recognize situations in which one quantity changes at a constant rate per unit interval relative to another."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 0
+12 = 0
+default = 1

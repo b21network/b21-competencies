@@ -1,0 +1,11 @@
+code = "SCI.1.2"
+competency_code = "SCI.1"
+descriptor = "Formulate a hypothesis"
+statement = "How well can I formulate a hypothesis?"
+
+[evidence_required]
+9 = 2
+10 = 2
+11 = 3
+12 = 3
+default = 1

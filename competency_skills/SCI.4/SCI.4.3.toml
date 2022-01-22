@@ -1,0 +1,11 @@
+code = "SCI.4.3"
+competency_code = "SCI.4"
+descriptor = "Follow writing conventions"
+statement = "How well did I follow writing conventions?"
+
+[evidence_required]
+9 = 1
+10 = 1
+11 = 2
+12 = 3
+default = 1

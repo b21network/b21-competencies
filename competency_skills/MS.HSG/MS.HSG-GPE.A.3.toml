@@ -1,0 +1,11 @@
+code = "MS.HSG-GPE.A.3"
+competency_code = "MS.HSG"
+descriptor = "GPE.A.3 Translate between the geometric description and the equation for a conic section"
+statement = "Derive the equations of ellipses and hyperbolas given the foci."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 0
+12 = 0
+default = 1

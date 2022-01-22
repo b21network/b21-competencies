@@ -1,0 +1,11 @@
+code = "ELA.1.4"
+competency_code = "ELA.1"
+descriptor = "Analyze craft"
+statement = "How well can I evaluate the effectiveness of the techniques and tool's the author uses?"
+
+[evidence_required]
+9 = 4
+10 = 4
+11 = 3
+12 = 2
+default = 1

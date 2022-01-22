@@ -1,0 +1,11 @@
+code = "MS.HSF-TF.B.5"
+competency_code = "MS.HSF"
+descriptor = "TF.B.5 Model periodic phenomena with trigonometric functions"
+statement = "Choose trigonometric functions to model periodic phenomena with specified amplitude, frequency, and midline.*"
+
+[evidence_required]
+9 = 0
+10 = 2
+11 = 0
+12 = 0
+default = 1

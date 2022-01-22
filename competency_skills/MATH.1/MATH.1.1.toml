@@ -1,0 +1,11 @@
+code = "MATH.1.1"
+competency_code = "MATH.1"
+descriptor = "Gather and organize information"
+statement = "How well can I gather and organize information when solving a problem?"
+
+[evidence_required]
+9 = 4
+10 = 4
+11 = 4
+12 = 4
+default = 1

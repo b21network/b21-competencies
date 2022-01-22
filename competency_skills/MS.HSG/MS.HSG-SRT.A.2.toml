@@ -1,0 +1,11 @@
+code = "MS.HSG-SRT.A.2"
+competency_code = "MS.HSG"
+descriptor = "SRT.A.2 Understand similarity in terms of similarity transformations"
+statement = "Given two figures, use the definition of similarity in terms of similarity transformations to decide if they are similar; explain using similarity transformations the meaning of similarity for triangles as the equality of all corresponding pairs of angles and the proportionality of all corresponding pairs of sides."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 1
+12 = 0
+default = 1

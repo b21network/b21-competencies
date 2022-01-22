@@ -1,0 +1,11 @@
+code = "MS.HSN-CN.C.9"
+competency_code = "MS.HSN"
+descriptor = "CN.C.9 Use complex numbers in polynomial identities and equations."
+statement = "Know the Fundamental Theorem of Algebra; show that it is true for quadratic polynomials."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 0
+12 = 0
+default = 1

@@ -1,0 +1,11 @@
+code = "WL.1.5"
+competency_code = "WL.1"
+descriptor = "Interpret Written Language"
+statement = "How well can I understand and interpret what I read?"
+
+[evidence_required]
+9 = 4
+10 = 4
+11 = 0
+12 = 0
+default = 1

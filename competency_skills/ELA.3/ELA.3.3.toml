@@ -1,0 +1,11 @@
+code = "ELA.3.3"
+competency_code = "ELA.3"
+descriptor = "Use words and transitions to create cohesion"
+statement = "How well do I use transitions to connect my ideas?"
+
+[evidence_required]
+9 = 1
+10 = 1
+11 = 2
+12 = 2
+default = 1

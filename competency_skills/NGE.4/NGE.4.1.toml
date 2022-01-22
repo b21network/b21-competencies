@@ -1,0 +1,11 @@
+code = "NGE.4.1"
+competency_code = "NGE.4"
+descriptor = "Clear Purpose, Topic, and Background Information"
+statement = "How well do I communicate my topic or message and purpose for my written communication?"
+
+[evidence_required]
+9 = 1
+10 = 1
+11 = 3
+12 = 4
+default = 1

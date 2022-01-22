@@ -1,0 +1,11 @@
+code = "MS.HSG-MG.A.3"
+competency_code = "MS.HSG"
+descriptor = "MG.A.3 Apply geometric concepts in modeling situations"
+statement = "Apply geometric methods to solve design problems (e.g., designing an object or structure to satisfy physical constraints or minimize cost; working with typographic grid systems based on ratios). *"
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 5
+12 = 0
+default = 1

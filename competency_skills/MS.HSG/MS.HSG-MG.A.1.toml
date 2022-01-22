@@ -1,0 +1,11 @@
+code = "MS.HSG-MG.A.1"
+competency_code = "MS.HSG"
+descriptor = "MG.A.1 Apply geometric concepts in modeling situations"
+statement = "Use geometric shapes, their measures, and their properties to describe objects (e.g., modeling a tree trunk or a human torso as a cylinder).*"
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 5
+12 = 0
+default = 1

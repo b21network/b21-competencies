@@ -1,0 +1,11 @@
+code = "MS.HSG-CO.D.12"
+competency_code = "MS.HSG"
+descriptor = "CO.D.12 Make geometric constructions"
+statement = "Make formal geometric constructions with a variety of tools and methods (compass and straightedge, string, reflective devices, paper folding, dynamic geometric software, etc.). Copying a segment; copying an angle; bisecting a segment; bisecting an angle; constructing perpendicular lines, including the perpendicular bisector of a line segment; and constructing a line parallel to a given line through a point not on the line."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 2
+12 = 0
+default = 1

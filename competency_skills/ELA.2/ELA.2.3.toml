@@ -1,0 +1,11 @@
+code = "ELA.2.3"
+competency_code = "ELA.2"
+descriptor = "Prepare the medium"
+statement = "How well do I make decisions about format and features that are best for my audience?"
+
+[evidence_required]
+9 = 4
+10 = 4
+11 = 3
+12 = 2
+default = 1

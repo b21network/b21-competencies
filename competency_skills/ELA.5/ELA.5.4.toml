@@ -1,0 +1,11 @@
+code = "ELA.5.4"
+competency_code = "ELA.5"
+descriptor = "Use words and transitions to create cohesion"
+statement = "How well do I use words, phrases, and transitions to create cohesion?"
+
+[evidence_required]
+9 = 0
+10 = 1
+11 = 1
+12 = 1
+default = 1

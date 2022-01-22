@@ -1,0 +1,11 @@
+code = "MS.HSG-SRT.C.7"
+competency_code = "MS.HSG"
+descriptor = "SRT.C.7 Define trigonometric ratios and solve problems involving right triangles"
+statement = "Explain and use the relationship between the sine and cosine of complementary angles."
+
+[evidence_required]
+9 = 0
+10 = 0
+11 = 1
+12 = 0
+default = 1

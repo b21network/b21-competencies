@@ -1,0 +1,11 @@
+code = "SCI.1.5"
+competency_code = "SCI.1"
+descriptor = "Organize & strengthen plan"
+statement = "How well can I strengthen my plan using feedback?"
+
+[evidence_required]
+9 = 2
+10 = 2
+11 = 3
+12 = 3
+default = 1
